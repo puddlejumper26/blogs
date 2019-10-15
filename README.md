@@ -7,5 +7,5 @@ Now here it goes!
 ## TypeScript
 
 <ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues" target="_blank">The && and || Operators in TypeScript </li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/1" target="_blank">The && and || Operators in TypeScript </li>
 <ul>
