@@ -1,4 +1,4 @@
-# Puddlejumper26 blogs
+<center># Puddlejumper26 blogs</center>
 
 Since I am a Noob, and have read quite a lot of blogs and articles about why and how to start a tech blog, 
 
@@ -8,8 +8,11 @@ Now here it goes!
 1. Better in Tech expressions
 2. Better in Thoughts and Concepts
 
+********************************************************************************
+
 ## Angular
 
+## Clean Code
 
 ## Testing
 
