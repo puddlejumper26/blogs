@@ -4,6 +4,12 @@ Since I am a Noob, and have read quite a lot of blogs and articles about why and
 
 Now here it goes!
 
+
+## Angular
+
+
+## Testing
+
 ## TypeScript
 
 <ul>
@@ -11,7 +17,5 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/2" target="_blank">The Array.prototype.map( ) in JavaScript</li>
 <ul>
   
-## Angular
+  
 
-
-## Testing
