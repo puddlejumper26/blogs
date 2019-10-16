@@ -4,6 +4,9 @@ Since I am a Noob, and have read quite a lot of blogs and articles about why and
 
 Now here it goes!
 
+### Reason to start this blog
+1. Better in Tech expressions
+2. Better in Thoughts and Concepts
 
 ## Angular
 
