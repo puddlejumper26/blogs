@@ -17,6 +17,8 @@ Now here it goes!
 
 ## CSS SCSS
 
+## Git
+
 ## Testing
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/3" target="_blank">Unit test a component which has type extends from other component's type</li>
