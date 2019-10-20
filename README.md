@@ -27,7 +27,7 @@ Now here it goes!
 ## Testing
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/3" target="_blank">Unit test a component which has type extends from other component's type</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/3" target="_blank">CSS Selectors for Angular Testing</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/4" target="_blank">CSS Selectors for Angular Testing</li>
 </ul>
 
 ## TypeScript
