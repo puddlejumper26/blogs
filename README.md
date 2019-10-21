@@ -12,7 +12,7 @@ Now here it goes!
 
 ## Angular
 <ul>
-  <li><a href=:"https://github.com/puddlejumper26/blogs/issues/13">Services in Angular (TBC)</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/13">Services in Angular (TBC)</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/14">Providers in Angular (TBC)</li>
 </ul>
 
