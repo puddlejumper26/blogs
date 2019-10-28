@@ -40,12 +40,15 @@ Now here it goes!
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/1" target="_blank">The && and || Operators in TypeScript </li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/2" target="_blank">The Array.prototype.map( ) in JavaScript</li>
-<ul>
-
-
-
-<ul>
+  
+  ---------------
+  
   <li><a href="https://github.com/puddlejumper26/blogs/issues/19">01 - Data Type in TypeScript</li>
+<ul>
+
+
+
+<ul>
 </ul>
   
 
