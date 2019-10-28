@@ -45,7 +45,7 @@ Now here it goes!
   
   - - - - - - - - - - - - - -
   
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/19">01 - Data Type in TypeScript</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/19">01 - Basic Types in TypeScript</li>
 <ul>
 
   
