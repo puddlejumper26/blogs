@@ -8,6 +8,8 @@ Now here it goes!
 1. Better in Tech expressions
 2. Better in Thoughts and Concepts
 
+<img src="https://user-images.githubusercontent.com/40550117/67723247-ba48d480-f9db-11e9-8d22-75fbb442a24a.jpg">
+
 ********************************************************************************
 
 ## Angular
