@@ -43,6 +43,7 @@ Now here it goes!
 <ul>
 
 ----------
+
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/19">01 - Data Type in TypeScript</li>
 </ul>
