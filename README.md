@@ -26,6 +26,7 @@ Now here it goes!
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/26">rem,em,px,vw,vh,vm in CSS</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/28">Add a Scrollbar in CSS (TBC)</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/32">Hover to change the style with CSS</a></li>
 </ul>
 
 ## Git
