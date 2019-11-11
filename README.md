@@ -42,6 +42,8 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/4" target="_blank">CSS Selectors for Angular Testing</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/15">Services in Angular Testing (TBC)</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/31">Date input testing in Angular (Notification)</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/34">innerHtml,innerText,innerContent in Testing</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/35">ActivatedRoute, serviceSpy, routerSpy in Angular Testing</a></li>
 </ul>
 
 ## TypeScript
