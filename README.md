@@ -44,6 +44,7 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/31">Date input testing in Angular (Notification)</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/34">innerHtml,innerText,innerContent in Testing</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/35">ActivatedRoute, serviceSpy, routerSpy in Angular Testing</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/39">async in Angular Testing (TBC)</a></li>
 </ul>
 
 ## TypeScript
