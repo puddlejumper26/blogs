@@ -47,6 +47,13 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/39">async in Angular Testing (TBC)</a></li>
 </ul>
 
+## JAVASCRIPT
+
+<ul>
+  
+  
+</ul>
+
 ## TypeScript
 
 <ul>
@@ -54,9 +61,6 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/2" target="_blank">The Array.prototype.map( ) in JavaScript</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/38">The difference between Spread and Rest Operators (TBC)</a></li>
   
-    
-  
-  - - - - - - - - - - - - - -
   
   <li><a href="https://github.com/puddlejumper26/blogs/issues/19">01 - Basic Types in TypeScript</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/23">02 - Class and Inheritance in JavaScript</li>
@@ -69,11 +73,3 @@ Now here it goes!
 <ul>
 
 
-
-
-## JAVASCRIPT
-
-<ul>
-  
-  
-</ul>
