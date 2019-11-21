@@ -30,6 +30,9 @@ Now here it goes!
 </ul>
 
 ## Git
+<ul>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/40">git convert CRLF to LF</a></li>
+</ul>
 
 ## RXJS
 <ul>
