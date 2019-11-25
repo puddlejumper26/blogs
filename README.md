@@ -73,7 +73,8 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/27">05 - Generic in TypeScript</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/29">06 - Generics with Class as Parameters </li> 
   <li><a href="https://github.com/puddlejumper26/blogs/issues/36"> 07 - Mysql Mongodb Mssql </li> 
-   
+    <li><a href="https://github.com/puddlejumper26/blogs/issues/37"> 08 - import { } with as && export default </li> 
+       <li><a href="https://github.com/puddlejumper26/blogs/issues/43"> 09 - Decorator </li> 
 <ul>
 
 
