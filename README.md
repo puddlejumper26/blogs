@@ -66,7 +66,7 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/2" target="_blank">The Array.prototype.map( ) in JavaScript</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/38">The difference between Spread and Rest Operators (TBC)</a></li>
 </ul> 
-- - - - - - 
+- - - - - - Basic Knowledge
 <ul>  
   <li><a href="https://github.com/puddlejumper26/blogs/issues/19">01 - Basic Types in TypeScript</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/23">02 - Class and Inheritance in JavaScript</li>
@@ -74,9 +74,9 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/25">04 - Interface in Typescript</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/27">05 - Generic in TypeScript</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/29">06 - Generics with Class as Parameters </li> 
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/36"> 07 - Mysql Mongodb Mssql </li> 
-    <li><a href="https://github.com/puddlejumper26/blogs/issues/37"> 08 - import { } with as && export default </li> 
-       <li><a href="https://github.com/puddlejumper26/blogs/issues/43"> 09 - Decorator </li> 
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/36">07 - Mysql Mongodb Mssql </li> 
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/37">08 - import { } with as && export default </li> 
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/43">09 - Decorator </li> 
 <ul>
 
 
