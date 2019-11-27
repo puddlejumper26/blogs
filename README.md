@@ -14,8 +14,8 @@ Now here it goes!
 
 ## Angular
 <ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/13">Services in Angular (TBC)</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/14">Providers in Angular (TBC)</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/13">Services in Angular</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/14">Providers in Angular</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/16">Resolve in Angular Routing</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/30">Create a valid hyperlink inside a dialog (Angular)</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/42">RouterLinkActive in Angular - keep focused element in style</a></li>
@@ -26,7 +26,7 @@ Now here it goes!
 ## CSS SCSS
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/26">rem,em,px,vw,vh,vm in CSS</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/28">Add a Scrollbar in CSS (TBC)</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/28">Add a Scrollbar in CSS</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/32">Hover to change the style with CSS</a></li>
 </ul>
 
@@ -37,18 +37,18 @@ Now here it goes!
 
 ## RXJS
 <ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/12">Notes of Rxjs Library for Angular (TBC)</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/12">Notes of Rxjs Library for Angular</li>
 </ul>
 
 ## Testing
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/3" target="_blank">Unit test a component which has type extends from other component's type</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/4" target="_blank">CSS Selectors for Angular Testing</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/15">Services in Angular Testing (TBC)</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/15">Services in Angular Testing</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/31">Date input testing in Angular (Notification)</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/34">innerHtml,innerText,innerContent in Testing</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/35">ActivatedRoute, serviceSpy, routerSpy in Angular Testing</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/39">async in Angular Testing (TBC)</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/39">async in Angular Testing</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/45">Mock a path in spec file</a></li>
 </ul>
 
@@ -64,7 +64,7 @@ Now here it goes!
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/1" target="_blank">The && and || Operators in TypeScript </li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/2" target="_blank">The Array.prototype.map( ) in JavaScript</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/38">The difference between Spread and Rest Operators (TBC)</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/38">The difference between Spread and Rest Operators</a></li>
 </ul> 
 - - - - - - Basic Knowledge
 <ul>  
