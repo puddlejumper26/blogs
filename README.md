@@ -12,6 +12,8 @@ Now here it goes!
 
 ********************************************************************************
 
+## <a href="https://github.com/puddlejumper26/blogs/issues/46">Github Issue Symbols and Emoji</a>
+
 ## Angular
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/13">Services in Angular</li>
