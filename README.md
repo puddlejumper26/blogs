@@ -54,6 +54,9 @@ Now here it goes!
 
 ## JAVASCRIPT
 
+Useful online courses
+- <a href="https://javascript.info/">The Modern JavaScript Tutorial</a>
+
 <ul>
   
   
