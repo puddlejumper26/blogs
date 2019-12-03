@@ -60,7 +60,7 @@ Useful online courses
 - <a href="https://javascript.info/">The Modern JavaScript Tutorial</a>
 
 <ul>
-  
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/38">Spread Operators and Rest Parameters</a></li>
   
 </ul>
 
