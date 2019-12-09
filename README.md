@@ -19,6 +19,7 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/13">Services in Angular</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/14">Providers in Angular</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/16">Resolve in Angular Routing</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/48">Directives in Angular</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/30">Create a valid hyperlink inside a dialog (Angular)</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/42">RouterLinkActive in Angular - keep focused element in style</a></li>
 </ul>
