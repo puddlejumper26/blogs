@@ -35,6 +35,7 @@ Now here it goes!
 ## Git
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/40">git convert CRLF to LF</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/50">How to change commit message in GIT</a>
 </ul>
 
 ## RXJS
