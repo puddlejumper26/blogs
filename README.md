@@ -52,6 +52,7 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/35">ActivatedRoute, serviceSpy, routerSpy in Angular Testing</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/39">async in Angular Testing</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/45">Mock a path in spec file</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/51">Test for a simple routerLink in Angular</a>
 </ul>
 
 ## JAVASCRIPT
