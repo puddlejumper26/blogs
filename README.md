@@ -33,42 +33,33 @@ Now here it goes!
 
 
 ## CSS SCSS LESS
-
-<ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/26">rem,em,px,vw,vh,vm in CSS</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/28">Add a Scrollbar in CSS</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/32">Hover to change the style with CSS</a></li>
-</ul>
-
-
-## Git
-
 *   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
 *   [Add a Scrollbar in CSS](https://github.com/puddlejumper26/blogs/issues/28)
 *   [Hover to change the style with CSS](https://github.com/puddlejumper26/blogs/issues/32)
 
-## RXJS
 
-<ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/12">Notes of Rxjs Library for Angular</a></li>
-</ul>
+## Git
+
+
+
+## RXJS
+*   [Notes of Rxjs Library for Angular](https://github.com/puddlejumper26/blogs/issues/12)
 
 
 ## Testing
-
-<ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/3" target="_blank">Unit test a component which has type extends from other component's type</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/11">Query( ) in Angular Testing</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/4" target="_blank">CSS Selectors for Angular Testing</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/15">Testing Services in Angular</a></li>
-<li><a href="https://github.com/puddlejumper26/blogs/issues/22">calls.reset() in Angular Testing</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/31">Date input testing in Angular (Notification)</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/34">innerHtml,innerText,innerContent in Testing</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/35">ActivatedRoute, serviceSpy, routerSpy in Angular Testing</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/39">async in Angular Testing</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/45">Mock a path in spec file</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/51">Test for a simple routerLink in Angular</a>
-</ul>
+*   [Unit test a component which has type extends from other component's type](https://github.com/puddlejumper26/blogs/issues/3)
+[](https://github.com/puddlejumper26/blogs/issues/3)
+*   [](https://github.com/puddlejumper26/blogs/issues/3)[Query( ) in Angular Testing](https://github.com/puddlejumper26/blogs/issues/11)
+*   [CSS Selectors for Angular Testing](https://github.com/puddlejumper26/blogs/issues/4)
+[](https://github.com/puddlejumper26/blogs/issues/4)
+*   [](https://github.com/puddlejumper26/blogs/issues/4)[Testing Services in Angular](https://github.com/puddlejumper26/blogs/issues/15)
+*   [calls.reset() in Angular Testing](https://github.com/puddlejumper26/blogs/issues/22)
+*   [Date input testing in Angular (Notification)](https://github.com/puddlejumper26/blogs/issues/31)
+*   [innerHtml,innerText,innerContent in Testing](https://github.com/puddlejumper26/blogs/issues/34)
+*   [ActivatedRoute, serviceSpy, routerSpy in Angular Testing](https://github.com/puddlejumper26/blogs/issues/35)
+*   [async in Angular Testing](https://github.com/puddlejumper26/blogs/issues/39)
+*   [Mock a path in spec file](https://github.com/puddlejumper26/blogs/issues/45)
+*   [Test for a simple routerLink in Angular](https://github.com/puddlejumper26/blogs/issues/51)
 
 ## JAVASCRIPT
 
@@ -84,26 +75,34 @@ Useful online courses
 </ul>
 
 ## TypeScript
+*   [The && and || Operators in TypeScript](https://github.com/puddlejumper26/blogs/issues/1)
+[](https://github.com/puddlejumper26/blogs/issues/1)
+*   [](https://github.com/puddlejumper26/blogs/issues/1)[!!, !: and ?: in TypeScript](https://github.com/puddlejumper26/blogs/issues/8)
+*   [Partial in Typescript](https://github.com/puddlejumper26/blogs/issues/17)
+*   [Record in Typescript](https://github.com/puddlejumper26/blogs/issues/18)
+*   [The Array.prototype.map( ) in JavaScript](https://github.com/puddlejumper26/blogs/issues/2)
+[](https://github.com/puddlejumper26/blogs/issues/2)
+*   [](https://github.com/puddlejumper26/blogs/issues/2)[The difference between Spread and Rest Operators](https://github.com/puddlejumper26/blogs/issues/38)
 
-<ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/1" target="_blank">The && and || Operators in TypeScript </li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/8">!!, !: and ?: in TypeScript</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/17">Partial in Typescript</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/18">Record in Typescript</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/2" target="_blank">The Array.prototype.map( ) in JavaScript</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/38">The difference between Spread and Rest Operators</a></li>
-</ul> 
 - - - - - - Basic Knowledge
-<ul>  
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/19">01 - Basic Types in TypeScript</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/23">02 - Class and Inheritance in JavaScript</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/24">03 - Class and Inheritance in TypeScript</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/25">04 - Interface in Typescript</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/27">05 - Generic in TypeScript</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/29">06 - Generics with Class as Parameters </li> 
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/36">07 - Mysql Mongodb Mssql </li> 
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/37">08 - import { } with as && export default </li> 
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/43">09 - Decorator </li> 
-<ul>
+
+*   [01 - Basic Types in TypeScript](https://github.com/puddlejumper26/blogs/issues/19)
+[](https://github.com/puddlejumper26/blogs/issues/19)
+*   [](https://github.com/puddlejumper26/blogs/issues/19)[02 - Class and Inheritance in JavaScript](https://github.com/puddlejumper26/blogs/issues/23)
+[](https://github.com/puddlejumper26/blogs/issues/23)
+*   [](https://github.com/puddlejumper26/blogs/issues/23)[03 - Class and Inheritance in TypeScript](https://github.com/puddlejumper26/blogs/issues/24)
+[](https://github.com/puddlejumper26/blogs/issues/24)
+*   [](https://github.com/puddlejumper26/blogs/issues/24)[04 - Interface in Typescript](https://github.com/puddlejumper26/blogs/issues/25)
+[](https://github.com/puddlejumper26/blogs/issues/25)
+*   [](https://github.com/puddlejumper26/blogs/issues/25)[05 - Generic in TypeScript](https://github.com/puddlejumper26/blogs/issues/27)
+[](https://github.com/puddlejumper26/blogs/issues/27)
+*   [](https://github.com/puddlejumper26/blogs/issues/27)[06 - Generics with Class as Parameters](https://github.com/puddlejumper26/blogs/issues/29)
+[](https://github.com/puddlejumper26/blogs/issues/29)
+*   [](https://github.com/puddlejumper26/blogs/issues/29)[07 - Mysql Mongodb Mssql](https://github.com/puddlejumper26/blogs/issues/36)
+[](https://github.com/puddlejumper26/blogs/issues/36)
+*   [](https://github.com/puddlejumper26/blogs/issues/36)[08 - import { } with as && export default](https://github.com/puddlejumper26/blogs/issues/37)
+[](https://github.com/puddlejumper26/blogs/issues/37)
+*   [](https://github.com/puddlejumper26/blogs/issues/37)[09 - Decorator](https://github.com/puddlejumper26/blogs/issues/43)
+[](https://github.com/puddlejumper26/blogs/issues/43)
 
 
