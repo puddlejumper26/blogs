@@ -14,13 +14,13 @@ Now here it goes!
 
 ## <a href="https://github.com/puddlejumper26/blogs/issues/46">Github Issue Symbols and Emoji</a>
 
-### Angular
+## Angular
 
 
 - [Services in Angular](https://github.com/puddlejumper26/blogs/issues/13)
 - [Providers in Angular](https://github.com/puddlejumper26/blogs/issues/14)
 - [Resolve in Angular Routing](https://github.com/puddlejumper26/blogs/issues/16)
-- [Directives in Angular}(https://github.com/puddlejumper26/blogs/issues/48)
+- [Directives in Angular](https://github.com/puddlejumper26/blogs/issues/48)
 - [Public, Private, Protected, Static and Abstract in Angular Component](https://github.com/puddlejumper26/blogs/issues/7)
 - [Create a valid hyperlink inside a dialog (Angular)](https://github.com/puddlejumper26/blogs/issues/30)
 - [RouterLinkActive in Angular - keep focused element in style](https://github.com/puddlejumper26/blogs/issues/42)
@@ -29,7 +29,7 @@ Now here it goes!
 
 
 
-### Clean Code
+## Clean Code
 
 
 ### CSS SCSS LESS
