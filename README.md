@@ -40,6 +40,7 @@ Now here it goes!
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/40">git convert CRLF to LF</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/50">How to change commit message in GIT</a>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/9">Git all commands</a></li>
 </ul>
 
 ## RXJS
@@ -77,6 +78,7 @@ Useful online courses
 
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/1" target="_blank">The && and || Operators in TypeScript </li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/8">!!, !: and ?: in TypeScript</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/2" target="_blank">The Array.prototype.map( ) in JavaScript</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/38">The difference between Spread and Rest Operators</a></li>
 </ul> 
