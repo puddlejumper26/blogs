@@ -87,22 +87,14 @@ Useful online courses
 - - - - - - Basic Knowledge
 
 *   [01 - Basic Types in TypeScript](https://github.com/puddlejumper26/blogs/issues/19)
-[](https://github.com/puddlejumper26/blogs/issues/19)
-*   [](https://github.com/puddlejumper26/blogs/issues/19)[02 - Class and Inheritance in JavaScript](https://github.com/puddlejumper26/blogs/issues/23)
-[](https://github.com/puddlejumper26/blogs/issues/23)
-*   [](https://github.com/puddlejumper26/blogs/issues/23)[03 - Class and Inheritance in TypeScript](https://github.com/puddlejumper26/blogs/issues/24)
-[](https://github.com/puddlejumper26/blogs/issues/24)
-*   [](https://github.com/puddlejumper26/blogs/issues/24)[04 - Interface in Typescript](https://github.com/puddlejumper26/blogs/issues/25)
-[](https://github.com/puddlejumper26/blogs/issues/25)
-*   [](https://github.com/puddlejumper26/blogs/issues/25)[05 - Generic in TypeScript](https://github.com/puddlejumper26/blogs/issues/27)
-[](https://github.com/puddlejumper26/blogs/issues/27)
-*   [](https://github.com/puddlejumper26/blogs/issues/27)[06 - Generics with Class as Parameters](https://github.com/puddlejumper26/blogs/issues/29)
-[](https://github.com/puddlejumper26/blogs/issues/29)
-*   [](https://github.com/puddlejumper26/blogs/issues/29)[07 - Mysql Mongodb Mssql](https://github.com/puddlejumper26/blogs/issues/36)
-[](https://github.com/puddlejumper26/blogs/issues/36)
-*   [](https://github.com/puddlejumper26/blogs/issues/36)[08 - import { } with as && export default](https://github.com/puddlejumper26/blogs/issues/37)
-[](https://github.com/puddlejumper26/blogs/issues/37)
-*   [](https://github.com/puddlejumper26/blogs/issues/37)[09 - Decorator](https://github.com/puddlejumper26/blogs/issues/43)
-[](https://github.com/puddlejumper26/blogs/issues/43)
+*   [02 - Class and Inheritance in JavaScript](https://github.com/puddlejumper26/blogs/issues/23)
+*   [03 - Class and Inheritance in TypeScript](https://github.com/puddlejumper26/blogs/issues/24)
+*   [04 - Interface in Typescript](https://github.com/puddlejumper26/blogs/issues/25)
+*   [05 - Generic in TypeScript](https://github.com/puddlejumper26/blogs/issues/27)
+*   [06 - Generics with Class as Parameters](https://github.com/puddlejumper26/blogs/issues/29)
+*   [07 - Mysql Mongodb Mssql](https://github.com/puddlejumper26/blogs/issues/36)
+*   [08 - import { } with as && export default](https://github.com/puddlejumper26/blogs/issues/37)
+*   [09 - Decorator](https://github.com/puddlejumper26/blogs/issues/43)
+
 
 
