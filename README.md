@@ -16,10 +16,10 @@ Now here it goes!
 
 ### Angular
 
-<ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/13">Services in Angular</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/14">Providers in Angular</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/16">Resolve in Angular Routing</a></li>
+
+- [Services in Angular](https://github.com/puddlejumper26/blogs/issues/13)
+- [Providers in Angular](https://github.com/puddlejumper26/blogs/issues/14)
+- [Resolve in Angular Routing](href="https://github.com/puddlejumper26/blogs/issues/16)
   <li><a href="https://github.com/puddlejumper26/blogs/issues/48">Directives in Angular</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/7">Public, Private, Protected, Static and Abstract in Angular Component</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/30">Create a valid hyperlink inside a dialog (Angular)</a></li>
