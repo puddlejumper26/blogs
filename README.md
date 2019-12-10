@@ -14,7 +14,7 @@ Now here it goes!
 
 ## <a href="https://github.com/puddlejumper26/blogs/issues/46">Github Issue Symbols and Emoji</a>
 
-## Angular
+### Angular
 
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/13">Services in Angular</a></li>
@@ -29,10 +29,10 @@ Now here it goes!
 </ul>
 
 
-## Clean Code
+### Clean Code
 
 
-## CSS SCSS LESS
+### CSS SCSS LESS
 
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/26">rem,em,px,vw,vh,vm in CSS</a></li>
