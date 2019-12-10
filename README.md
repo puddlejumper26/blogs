@@ -25,6 +25,7 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/30">Create a valid hyperlink inside a dialog (Angular)</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/42">RouterLinkActive in Angular - keep focused element in style</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/47">Theming in Angular Material (Color Maps)</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/10>@ HostBinding and @ HostListener in Angular</a></li>
 </ul>
 
 ## Clean Code
@@ -51,6 +52,7 @@ Now here it goes!
 ## Testing
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/3" target="_blank">Unit test a component which has type extends from other component's type</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/11">Query( ) in Angular Testing</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/4" target="_blank">CSS Selectors for Angular Testing</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/15">Services in Angular Testing</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/31">Date input testing in Angular (Notification)</a></li>
