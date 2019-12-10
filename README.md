@@ -54,7 +54,8 @@ Now here it goes!
   <li><a href="https://github.com/puddlejumper26/blogs/issues/3" target="_blank">Unit test a component which has type extends from other component's type</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/11">Query( ) in Angular Testing</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/4" target="_blank">CSS Selectors for Angular Testing</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/15">Services in Angular Testing</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/15">Testing Services in Angular</a></li>
+<li><a href="https://github.com/puddlejumper26/blogs/issues/22">calls.reset() in Angular Testing</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/31">Date input testing in Angular (Notification)</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/34">innerHtml,innerText,innerContent in Testing</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/35">ActivatedRoute, serviceSpy, routerSpy in Angular Testing</a></li>
@@ -81,6 +82,8 @@ Useful online courses
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/1" target="_blank">The && and || Operators in TypeScript </li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/8">!!, !: and ?: in TypeScript</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/17">Partial in Typescript</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/18">Record in Typescript</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/2" target="_blank">The Array.prototype.map( ) in JavaScript</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/38">The difference between Spread and Rest Operators</a></li>
 </ul> 
