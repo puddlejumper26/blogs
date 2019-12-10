@@ -19,14 +19,14 @@ Now here it goes!
 
 - [Services in Angular](https://github.com/puddlejumper26/blogs/issues/13)
 - [Providers in Angular](https://github.com/puddlejumper26/blogs/issues/14)
-- [Resolve in Angular Routing](href="https://github.com/puddlejumper26/blogs/issues/16)
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/48">Directives in Angular</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/7">Public, Private, Protected, Static and Abstract in Angular Component</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/30">Create a valid hyperlink inside a dialog (Angular)</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/42">RouterLinkActive in Angular - keep focused element in style</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/47">Theming in Angular Material (Color Maps)</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/10> @ HostBinding and @ HostListener in Angular</a></li>
-</ul>
+- [Resolve in Angular Routing](https://github.com/puddlejumper26/blogs/issues/16)
+- [Directives in Angular}(https://github.com/puddlejumper26/blogs/issues/48)
+- [Public, Private, Protected, Static and Abstract in Angular Component](https://github.com/puddlejumper26/blogs/issues/7)
+- [Create a valid hyperlink inside a dialog (Angular)](https://github.com/puddlejumper26/blogs/issues/30)
+- [RouterLinkActive in Angular - keep focused element in style](https://github.com/puddlejumper26/blogs/issues/42)
+- [Theming in Angular Material (Color Maps)](https://github.com/puddlejumper26/blogs/issues/47)
+- [ @ HostBinding and @ HostListener in Angular](https://github.com/puddlejumper26/blogs/issues/10)
+
 
 
 ### Clean Code
