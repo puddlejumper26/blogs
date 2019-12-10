@@ -15,41 +15,49 @@ Now here it goes!
 ## <a href="https://github.com/puddlejumper26/blogs/issues/46">Github Issue Symbols and Emoji</a>
 
 ## Angular
+
 <ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/13">Services in Angular</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/14">Providers in Angular</li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/16">Resolve in Angular Routing</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/13">Services in Angular</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/14">Providers in Angular</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/16">Resolve in Angular Routing</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/48">Directives in Angular</a></li>
-  
   <li><a href="https://github.com/puddlejumper26/blogs/issues/7">Public, Private, Protected, Static and Abstract in Angular Component</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/30">Create a valid hyperlink inside a dialog (Angular)</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/42">RouterLinkActive in Angular - keep focused element in style</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/47">Theming in Angular Material (Color Maps)</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/10>@ HostBinding and @ HostListener in Angular</a></li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/10> @ HostBinding and @ HostListener in Angular</a></li>
 </ul>
+
 
 ## Clean Code
 
+
 ## CSS SCSS LESS
+
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/26">rem,em,px,vw,vh,vm in CSS</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/28">Add a Scrollbar in CSS</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/32">Hover to change the style with CSS</a></li>
 </ul>
 
+
 ## Git
+
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/40">git convert CRLF to LF</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/50">How to change commit message in GIT</a>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/50">How to change commit message in GIT</a></li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/9">Git all commands</a></li>
 </ul>
 
 ## RXJS
+
 <ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/12">Notes of Rxjs Library for Angular</li>
+  <li><a href="https://github.com/puddlejumper26/blogs/issues/12">Notes of Rxjs Library for Angular</a></li>
 </ul>
 
+
 ## Testing
+
 <ul>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/3" target="_blank">Unit test a component which has type extends from other component's type</li>
   <li><a href="https://github.com/puddlejumper26/blogs/issues/11">Query( ) in Angular Testing</a></li>
