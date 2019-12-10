@@ -21,11 +21,15 @@ Now here it goes!
 - [Providers in Angular](https://github.com/puddlejumper26/blogs/issues/14)
 - [Resolve in Angular Routing](https://github.com/puddlejumper26/blogs/issues/16)
 - [Directives in Angular](https://github.com/puddlejumper26/blogs/issues/48)
+- [Built_in Directives](https://github.com/puddlejumper26/blogs/issues/57)
 - [Public, Private, Protected, Static and Abstract in Angular Component](https://github.com/puddlejumper26/blogs/issues/7)
 - [Create a valid hyperlink inside a dialog (Angular)](https://github.com/puddlejumper26/blogs/issues/30)
 - [RouterLinkActive in Angular - keep focused element in style](https://github.com/puddlejumper26/blogs/issues/42)
 - [Theming in Angular Material (Color Maps)](https://github.com/puddlejumper26/blogs/issues/47)
 - [ @ HostBinding and @ HostListener in Angular](https://github.com/puddlejumper26/blogs/issues/10)
+- [The advantage of Angular and MVC](https://github.com/puddlejumper26/blogs/issues/49) 
+- [@Input and @Output in Angular](https://github.com/puddlejumper26/blogs/issues/52)
+- [Data binding in Angular](https://github.com/puddlejumper26/blogs/issues/56)
 
 
 
@@ -36,10 +40,16 @@ Now here it goes!
 *   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
 *   [Add a Scrollbar in CSS](https://github.com/puddlejumper26/blogs/issues/28)
 *   [Hover to change the style with CSS](https://github.com/puddlejumper26/blogs/issues/32)
+*   [49 CSS notes (Translation)](https://github.com/puddlejumper26/blogs/issues/33)
+*   [Color Wheel](https://github.com/puddlejumper26/blogs/issues/53)
+*   [HSV color](https://github.com/puddlejumper26/blogs/issues/54)
+*   [CSS functions & Less Functions](https://github.com/puddlejumper26/blogs/issues/55)
 
 
 ## Git
-
+*   [Git all commands](https://github.com/puddlejumper26/blogs/issues/17)
+*   [Git convert CRLF to LF](https://github.com/puddlejumper26/blogs/issues/40) 
+*   [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
 
 
 ## RXJS
@@ -79,6 +89,9 @@ Useful online courses
 *   [Record in Typescript](https://github.com/puddlejumper26/blogs/issues/18)
 *   [The Array.prototype.map( ) in JavaScript](https://github.com/puddlejumper26/blogs/issues/2)
 *   [The difference between Spread and Rest Operators](https://github.com/puddlejumper26/blogs/issues/38)
+*   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
+*   [Date() input with format: from yyyy-mm-ddt00-00-00.000z to yyyy-mm-ddt23-59-59.999z](https://github.com/puddlejumper26/blogs/issues/41)
+*   [Dto document in project](https://github.com/puddlejumper26/blogs/issues/44)
 
 - - - - - - Basic Knowledge
 
