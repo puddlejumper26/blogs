@@ -43,11 +43,9 @@ Now here it goes!
 
 ## Git
 
-<ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/40">git convert CRLF to LF</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/50">How to change commit message in GIT</a></li>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/9">Git all commands</a></li>
-</ul>
+*   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
+*   [Add a Scrollbar in CSS](https://github.com/puddlejumper26/blogs/issues/28)
+*   [Hover to change the style with CSS](https://github.com/puddlejumper26/blogs/issues/32)
 
 ## RXJS
 
