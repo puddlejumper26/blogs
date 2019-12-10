@@ -48,11 +48,9 @@ Now here it goes!
 
 ## Testing
 *   [Unit test a component which has type extends from other component's type](https://github.com/puddlejumper26/blogs/issues/3)
-[](https://github.com/puddlejumper26/blogs/issues/3)
-*   [](https://github.com/puddlejumper26/blogs/issues/3)[Query( ) in Angular Testing](https://github.com/puddlejumper26/blogs/issues/11)
+*   [Query( ) in Angular Testing](https://github.com/puddlejumper26/blogs/issues/11)
 *   [CSS Selectors for Angular Testing](https://github.com/puddlejumper26/blogs/issues/4)
-[](https://github.com/puddlejumper26/blogs/issues/4)
-*   [](https://github.com/puddlejumper26/blogs/issues/4)[Testing Services in Angular](https://github.com/puddlejumper26/blogs/issues/15)
+*   [Testing Services in Angular](https://github.com/puddlejumper26/blogs/issues/15)
 *   [calls.reset() in Angular Testing](https://github.com/puddlejumper26/blogs/issues/22)
 *   [Date input testing in Angular (Notification)](https://github.com/puddlejumper26/blogs/issues/31)
 *   [innerHtml,innerText,innerContent in Testing](https://github.com/puddlejumper26/blogs/issues/34)
@@ -76,13 +74,11 @@ Useful online courses
 
 ## TypeScript
 *   [The && and || Operators in TypeScript](https://github.com/puddlejumper26/blogs/issues/1)
-[](https://github.com/puddlejumper26/blogs/issues/1)
-*   [](https://github.com/puddlejumper26/blogs/issues/1)[!!, !: and ?: in TypeScript](https://github.com/puddlejumper26/blogs/issues/8)
+*   [!!, !: and ?: in TypeScript](https://github.com/puddlejumper26/blogs/issues/8)
 *   [Partial in Typescript](https://github.com/puddlejumper26/blogs/issues/17)
 *   [Record in Typescript](https://github.com/puddlejumper26/blogs/issues/18)
 *   [The Array.prototype.map( ) in JavaScript](https://github.com/puddlejumper26/blogs/issues/2)
-[](https://github.com/puddlejumper26/blogs/issues/2)
-*   [](https://github.com/puddlejumper26/blogs/issues/2)[The difference between Spread and Rest Operators](https://github.com/puddlejumper26/blogs/issues/38)
+*   [The difference between Spread and Rest Operators](https://github.com/puddlejumper26/blogs/issues/38)
 
 - - - - - - Basic Knowledge
 
