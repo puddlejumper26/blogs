@@ -16,7 +16,7 @@ Now here it goes!
 
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
-## Angular
+## Angular :pushpin:
 
 
 - [Services in Angular](https://github.com/puddlejumper26/blogs/issues/13)
@@ -35,10 +35,10 @@ Now here it goes!
 
 
 
-## Clean Code
+## Clean Code :pushpin:
 
 
-## CSS SCSS LESS
+## CSS SCSS LESS :pushpin:
 *   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
 *   [Add a Scrollbar in CSS](https://github.com/puddlejumper26/blogs/issues/28)
 *   [Hover to change the style with CSS](https://github.com/puddlejumper26/blogs/issues/32)
@@ -48,17 +48,20 @@ Now here it goes!
 *   [CSS functions & Less Functions](https://github.com/puddlejumper26/blogs/issues/55)
 
 
-## Git
+## Git :pushpin:
+
 *   [Git all commands](https://github.com/puddlejumper26/blogs/issues/17)
 *   [Git convert CRLF to LF](https://github.com/puddlejumper26/blogs/issues/40) 
 *   [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
 
 
-## RXJS
+## RXJS :pushpin:
+
 *   [Notes of Rxjs Library for Angular](https://github.com/puddlejumper26/blogs/issues/12)
 
+ 
+## Testing :pushpin:
 
-## Testing
 *   [Unit test a component which has type extends from other component's type](https://github.com/puddlejumper26/blogs/issues/3)
 *   [Query( ) in Angular Testing](https://github.com/puddlejumper26/blogs/issues/11)
 *   [CSS Selectors for Angular Testing](https://github.com/puddlejumper26/blogs/issues/4)
@@ -72,7 +75,7 @@ Now here it goes!
 *   [Test for a simple routerLink in Angular](https://github.com/puddlejumper26/blogs/issues/51)
 *   [Pipe testing in Angular](https://github.com/puddlejumper26/blogs/issues/58)
 
-## JAVASCRIPT
+## JAVASCRIPT :pushpin:
 
 Useful online courses
 *   [The Modern JavaScript Tutorial](https://javascript.info/)
@@ -84,7 +87,7 @@ Useful online courses
   
 
 
-## TypeScript
+## TypeScript :pushpin:
 *   [The && and || Operators in TypeScript](https://github.com/puddlejumper26/blogs/issues/1)
 *   [!!, !: and ?: in TypeScript](https://github.com/puddlejumper26/blogs/issues/8)
 *   [Partial in Typescript](https://github.com/puddlejumper26/blogs/issues/17)
