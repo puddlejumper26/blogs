@@ -10,7 +10,7 @@ Now here it goes!
 
 <img src="https://user-images.githubusercontent.com/40550117/67723247-ba48d480-f9db-11e9-8d22-75fbb442a24a.jpg">
 
-:five:  :seven:
+:five:  :six:
 
 ********************************************************************************
 
@@ -27,7 +27,7 @@ Now here it goes!
 - [Public, Private, Protected, Static and Abstract in Angular Component](https://github.com/puddlejumper26/blogs/issues/7)
 - [Create a valid hyperlink inside a dialog (Angular)](https://github.com/puddlejumper26/blogs/issues/30)
 - [RouterLinkActive in Angular - keep focused element in style](https://github.com/puddlejumper26/blogs/issues/42)
-- [Theming in Angular Material (Color Maps)](https://github.com/puddlejumper26/blogs/issues/47)
+- [Theming in Angular Material (Color Palatte)](https://github.com/puddlejumper26/blogs/issues/47)
 - [ @ HostBinding and @ HostListener in Angular](https://github.com/puddlejumper26/blogs/issues/10)
 - [The advantage of Angular and MVC](https://github.com/puddlejumper26/blogs/issues/49) 
 - [@Input and @Output in Angular](https://github.com/puddlejumper26/blogs/issues/52)
