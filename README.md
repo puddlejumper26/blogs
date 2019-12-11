@@ -10,7 +10,10 @@ Now here it goes!
 
 <img src="https://user-images.githubusercontent.com/40550117/67723247-ba48d480-f9db-11e9-8d22-75fbb442a24a.jpg">
 
-:five:  :eight:
+<p align="center">
+:five: :eight:
+ </p>
+
 
 ********************************************************************************
 
