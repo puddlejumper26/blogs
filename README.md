@@ -14,7 +14,7 @@ Now here it goes!
 
 ********************************************************************************
 
-## <a href="https://github.com/puddlejumper26/blogs/issues/46">Github Issue Symbols and Emoji</a>
+## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
 ## Angular
 
@@ -75,15 +75,14 @@ Now here it goes!
 ## JAVASCRIPT
 
 Useful online courses
-- <a href="https://javascript.info/">The Modern JavaScript Tutorial</a>
+*   [The Modern JavaScript Tutorial](https://javascript.info/)
 
 
-:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+- - - - - - Basic Knowledge
 
-<ul>
-  <li><a href="https://github.com/puddlejumper26/blogs/issues/38">Spread Operators and Rest Parameters</a></li>
+*   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
   
-</ul>
+
 
 ## TypeScript
 *   [The && and || Operators in TypeScript](https://github.com/puddlejumper26/blogs/issues/1)
