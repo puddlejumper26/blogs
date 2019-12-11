@@ -70,6 +70,7 @@ Now here it goes!
 *   [async in Angular Testing](https://github.com/puddlejumper26/blogs/issues/39)
 *   [Mock a path in spec file](https://github.com/puddlejumper26/blogs/issues/45)
 *   [Test for a simple routerLink in Angular](https://github.com/puddlejumper26/blogs/issues/51)
+*   [Pipe testing in Angular](https://github.com/puddlejumper26/blogs/issues/58)
 
 ## JAVASCRIPT
 
