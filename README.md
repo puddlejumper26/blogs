@@ -35,8 +35,8 @@ Now here it goes!
 - [The advantage of Angular and MVC](https://github.com/puddlejumper26/blogs/issues/49) 
 - [@Input and @Output in Angular](https://github.com/puddlejumper26/blogs/issues/52)
 - [Data binding in Angular](https://github.com/puddlejumper26/blogs/issues/56)
-- [Angular Form - Template Driven Form](https://github.com/puddlejumper26/blogs/issues/59)
-- [Angular Form - Reactive Form](https://github.com/puddlejumper26/blogs/issues/60)
+- [Angular Form - Template Driven Form](https://github.com/puddlejumper26/blogs/issues/60)
+- [Angular Form - Reactive Form](https://github.com/puddlejumper26/blogs/issues/59)
 
 
 
