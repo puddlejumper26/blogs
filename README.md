@@ -11,7 +11,7 @@ Now here it goes!
 <img src="https://user-images.githubusercontent.com/40550117/67723247-ba48d480-f9db-11e9-8d22-75fbb442a24a.jpg">
 
 <p align="center">
-:five: :eight:
+:five: :nine:
  </p>
 
 
@@ -102,6 +102,7 @@ Useful online courses
 *   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
 *   [Date() input with format: from yyyy-mm-ddt00-00-00.000z to yyyy-mm-ddt23-59-59.999z](https://github.com/puddlejumper26/blogs/issues/41)
 *   [Dto document in project](https://github.com/puddlejumper26/blogs/issues/44)
+*   [Why defining Variables inside constructor of TS](https://github.com/puddlejumper26/blogs/issues/59)
 
 - - - - - - Basic Knowledge
 
