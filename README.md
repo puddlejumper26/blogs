@@ -102,7 +102,7 @@ Useful online courses
 *   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
 *   [Date() input with format: from yyyy-mm-ddt00-00-00.000z to yyyy-mm-ddt23-59-59.999z](https://github.com/puddlejumper26/blogs/issues/41)
 *   [Dto document in project](https://github.com/puddlejumper26/blogs/issues/44)
-*   [Why defining Variables inside constructor of TS](https://github.com/puddlejumper26/blogs/issues/59)
+*   [Why defining Variables inside constructor of TS](https://github.com/puddlejumper26/blogs/issues/61)
 
 - - - - - - Basic Knowledge
 
