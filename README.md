@@ -24,6 +24,7 @@ Now here it goes!
 
 - [Services in Angular](https://github.com/puddlejumper26/blogs/issues/13)
 - [Providers in Angular](https://github.com/puddlejumper26/blogs/issues/14)
+- [Observables in Angular](https://github.com/puddlejumper26/blogs/issues/62)
 - [Resolve in Angular Routing](https://github.com/puddlejumper26/blogs/issues/16)
 - [Directives in Angular](https://github.com/puddlejumper26/blogs/issues/48)
 - [Built_in Directives](https://github.com/puddlejumper26/blogs/issues/57)
