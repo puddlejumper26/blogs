@@ -21,7 +21,7 @@ Now here it goes!
 
 
 
-## ANDROID :pushpin:
+## Android :pushpin:
 
 
 ## Angular :pushpin:
