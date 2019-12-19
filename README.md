@@ -39,6 +39,7 @@ Now here it goes!
 - [Angular Form - Template Driven Form](https://github.com/puddlejumper26/blogs/issues/60)
 - [Angular Form - Reactive Form](https://github.com/puddlejumper26/blogs/issues/59)
 - [Web App Manifest](https://github.com/puddlejumper26/blogs/issues/63)
+- [How to use Fonts locally in Angular](https://github.com/puddlejumper26/blogs/issues/64)
 
 
 
@@ -60,6 +61,11 @@ Now here it goes!
 *   [Git all commands](https://github.com/puddlejumper26/blogs/issues/17)
 *   [Git convert CRLF to LF](https://github.com/puddlejumper26/blogs/issues/40) 
 *   [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
+
+## IOS :pushpin:
+- [mask-icon on apple ios](https://github.com/puddlejumper26/blogs/issues/65)
+
+## ANDROID :pushpin:
 
 
 ## RXJS :pushpin:
