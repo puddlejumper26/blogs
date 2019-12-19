@@ -19,6 +19,11 @@ Now here it goes!
 
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
+
+
+## ANDROID :pushpin:
+
+
 ## Angular :pushpin:
 
 
@@ -65,7 +70,18 @@ Now here it goes!
 ## IOS :pushpin:
 - [mask-icon on apple ios](https://github.com/puddlejumper26/blogs/issues/65)
 
-## ANDROID :pushpin:
+
+## JAVASCRIPT :pushpin:
+
+Useful online courses
+*   [The Modern JavaScript Tutorial](https://javascript.info/)
+
+
+- - - - - - Basic Knowledge
+
+*   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
+  
+
 
 
 ## RXJS :pushpin:
@@ -87,17 +103,6 @@ Now here it goes!
 *   [Mock a path in spec file](https://github.com/puddlejumper26/blogs/issues/45)
 *   [Test for a simple routerLink in Angular](https://github.com/puddlejumper26/blogs/issues/51)
 *   [Pipe testing in Angular](https://github.com/puddlejumper26/blogs/issues/58)
-
-## JAVASCRIPT :pushpin:
-
-Useful online courses
-*   [The Modern JavaScript Tutorial](https://javascript.info/)
-
-
-- - - - - - Basic Knowledge
-
-*   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
-  
 
 
 ## TypeScript :pushpin:
