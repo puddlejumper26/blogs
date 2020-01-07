@@ -35,7 +35,9 @@ Now here it goes!
 - [Create a valid hyperlink inside a dialog (Angular)](https://github.com/puddlejumper26/blogs/issues/30)
 - [Creating, subscribing to Observables in Angular](https://github.com/puddlejumper26/blogs/issues/62)
 - [Data binding in Angular](https://github.com/puddlejumper26/blogs/issues/56)
+- [dependencies vs devDependencies in package.json](https://github.com/puddlejumper26/blogs/issues/67)
 - [Directives in Angular](https://github.com/puddlejumper26/blogs/issues/48)
+- [How to find third parties applications inside project](https://github.com/puddlejumper26/blogs/issues/69)
 - [How to use Fonts locally in Angular](https://github.com/puddlejumper26/blogs/issues/64)
 - [Providers in Angular](https://github.com/puddlejumper26/blogs/issues/14)
 - [Public, Private, Protected, Static and Abstract in Angular Component](https://github.com/puddlejumper26/blogs/issues/7)
@@ -67,10 +69,13 @@ Now here it goes!
 *   [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
 
 ## IOS :pushpin:
+- [apple-touch-icon](https://github.com/puddlejumper26/blogs/issues/66)
 - [mask-icon on apple ios](https://github.com/puddlejumper26/blogs/issues/65)
 
 
 ## JAVASCRIPT :pushpin:
+
+- [What is Gradle](https://github.com/puddlejumper26/blogs/issues/68)
 
 - - - - - - Useful online courses
 *   [The Modern JavaScript Tutorial](https://javascript.info/)
