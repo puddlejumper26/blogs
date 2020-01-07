@@ -111,14 +111,14 @@ Now here it goes!
 
 
 ## TypeScript :pushpin:
-*   [The && and || Operators in TypeScript](https://github.com/puddlejumper26/blogs/issues/1)
 *   [!!, !: and ?: in TypeScript](https://github.com/puddlejumper26/blogs/issues/8)
-*   [Partial in Typescript](https://github.com/puddlejumper26/blogs/issues/17)
-*   [Record in Typescript](https://github.com/puddlejumper26/blogs/issues/18)
-*   [The Array.prototype.map( ) in JavaScript](https://github.com/puddlejumper26/blogs/issues/2)
-*   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
 *   [Date() input with format: from yyyy-mm-ddt00-00-00.000z to yyyy-mm-ddt23-59-59.999z](https://github.com/puddlejumper26/blogs/issues/41)
 *   [Dto document in project](https://github.com/puddlejumper26/blogs/issues/44)
+*   [Partial in Typescript](https://github.com/puddlejumper26/blogs/issues/17)
+*   [Record in Typescript](https://github.com/puddlejumper26/blogs/issues/18)
+*   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
+*   [The && and || Operators in TypeScript](https://github.com/puddlejumper26/blogs/issues/1)
+*   [The Array.prototype.map( ) in JavaScript](https://github.com/puddlejumper26/blogs/issues/2)
 *   [Why defining Variables inside constructor of TS](https://github.com/puddlejumper26/blogs/issues/61)
 
 - - - - - - Basic Knowledge
