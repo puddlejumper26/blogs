@@ -19,7 +19,8 @@ Now here it goes!
 
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
-
+## Algorithms
+- [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
 
 ## Android :pushpin:
 
