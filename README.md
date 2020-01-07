@@ -19,19 +19,6 @@ Now here it goes!
 
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
-## Algorithms & Data Structure
-### - Algorithms
-
-- [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
-
-#### -- Book Notes
-
-- [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71)
-- [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74)
-
-### - Data Structure
-- [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70)
-
 
 ## Android :pushpin:
 
@@ -74,6 +61,21 @@ Now here it goes!
 *   [HSV color](https://github.com/puddlejumper26/blogs/issues/54)
 *   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
 
+## Data Structure & Algorithms :pushpin:
+### - Algorithms
+
+- [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
+
+#### -- Book Notes :books:
+
+- [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71) :books:
+- [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:
+
+### - Data Structure
+- [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
+
+
+
 ## Git :pushpin:
 
 *   [Git all commands](https://github.com/puddlejumper26/blogs/issues/17)
@@ -100,8 +102,8 @@ Now here it goes!
 
 ## Methodology
 - - Book Notes 整体方法论
-- [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72)
-- [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73)
+- [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72) :books:
+- [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
 
 
 ## RXJS :pushpin:
