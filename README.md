@@ -89,19 +89,25 @@ Now here it goes!
 
  
 ## Testing :pushpin:
-
-*   [Unit test a component which has type extends from other component's type](https://github.com/puddlejumper26/blogs/issues/3)
-*   [Query( ) in Angular Testing](https://github.com/puddlejumper26/blogs/issues/11)
-*   [CSS Selectors for Angular Testing](https://github.com/puddlejumper26/blogs/issues/4)
-*   [Testing Services in Angular](https://github.com/puddlejumper26/blogs/issues/15)
+*   [ActivatedRoute, serviceSpy, routerSpy in Angular Testing](https://github.com/puddlejumper26/blogs/issues/35)
+*   [Async in Angular Testing](https://github.com/puddlejumper26/blogs/issues/39)
 *   [calls.reset() in Angular Testing](https://github.com/puddlejumper26/blogs/issues/22)
+*   [CSS Selectors for Angular Testing](https://github.com/puddlejumper26/blogs/issues/4)
 *   [Date input testing in Angular (Notification)](https://github.com/puddlejumper26/blogs/issues/31)
 *   [innerHtml,innerText,innerContent in Testing](https://github.com/puddlejumper26/blogs/issues/34)
-*   [ActivatedRoute, serviceSpy, routerSpy in Angular Testing](https://github.com/puddlejumper26/blogs/issues/35)
-*   [async in Angular Testing](https://github.com/puddlejumper26/blogs/issues/39)
 *   [Mock a path in spec file](https://github.com/puddlejumper26/blogs/issues/45)
-*   [Test for a simple routerLink in Angular](https://github.com/puddlejumper26/blogs/issues/51)
 *   [Pipe testing in Angular](https://github.com/puddlejumper26/blogs/issues/58)
+*   [Test for a simple routerLink in Angular](https://github.com/puddlejumper26/blogs/issues/51)
+*   [Testing Services in Angular](https://github.com/puddlejumper26/blogs/issues/15)
+*   [Query( ) in Angular Testing](https://github.com/puddlejumper26/blogs/issues/11)
+*   [Unit test a component which has type extends from other component's type](https://github.com/puddlejumper26/blogs/issues/3)
+
+
+
+
+
+
+
 
 
 ## TypeScript :pushpin:
