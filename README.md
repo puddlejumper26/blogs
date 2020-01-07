@@ -24,9 +24,10 @@ Now here it goes!
 
 - [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
 
-- - Book Notes
+#### -- Book Notes
 
 - [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71)
+- [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74)
 
 ### - Data Structure
 - [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70)
