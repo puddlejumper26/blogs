@@ -19,8 +19,18 @@ Now here it goes!
 
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
-## Algorithms
+## Algorithms & Data Structure
+### - Algorithms
+
 - [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
+
+- - Book Notes
+
+- [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71)
+
+### - Data Structure
+- [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70)
+
 
 ## Android :pushpin:
 
@@ -87,6 +97,10 @@ Now here it goes!
 *   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
   
 
+## Methodology
+- - Book Notes 整体方法论
+- [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72)
+- [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73)
 
 
 ## RXJS :pushpin:
