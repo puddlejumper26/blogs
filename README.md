@@ -78,7 +78,7 @@ Now here it goes!
 
 ## Git :pushpin:
 
-*   [Git all commands](https://github.com/puddlejumper26/blogs/issues/17)
+*   [Git all commands](https://github.com/puddlejumper26/blogs/issues/9)
 *   [Git convert CRLF to LF](https://github.com/puddlejumper26/blogs/issues/40) 
 *   [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
 
