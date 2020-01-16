@@ -14,13 +14,23 @@ Now here it goes!
 :seven: :seven:
  </p>
 
+[Android](#Android) 
+
+### Place 1
+
+Hello, this is some text to fill in this, [here](#git), is a link to the second place.
+
+### Place 2
+
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
 ********************************************************************************
 
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
 
-## Android :pushpin:
+## Android
+<h2 id='android'>Android</h2>      :pushpin:
 
 
 ## Angular :pushpin:
