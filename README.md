@@ -14,12 +14,12 @@ Now here it goes!
 :seven: :seven:
  </p>
 
-| Devices | Framework| Data Structure| Libraries | Tools | Languages| Algorithms|
-|-|-|-|-|-|-|-|
-| <a href="#android">Android</a> |<a href="#angular">Angular</a> |<a href="#data-structure">Data Structure</a>|<a href="#rxjs">Rxjs</a>|<a href="#git">Git</a>|<a href="#css-scss-less">Css Scss Less</a>|<a href="algorithms">Algorithms</a>|
-| <a href="#ios">IOS</a> |<a href="#angular-testing">Angular-Testing</a> |<a href=""></a>|<a href=" "> </a>|<a href="#clean-code">Clean Code</a>|<a href=""></a>|<a href=""></a>|
-| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#methodology">Methodology</a>|<a href="#javascript">Javascript</a>|<a href=""></a>|
-| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href="#typescript">Typescript</a>|<a href=""></a>|
+| Devices | Framework| Data Structure| Libraries | Tools | Languages|
+|-|-|-|-|-|-|
+| <a href="#android">Android</a> |<a href="#angular">Angular</a> |<a href="#data-structure">Data Structure & Algorithms</a>|<a href=""#rxjs">Rxjs</a>|<a href="#git">Git</a>|<a href="#css-scss-less">Css Scss Less</a>|
+| <a href="#ios">IOS</a> |<a href="#angular-testing">Angular-Testing</a> |<a href=""></a>|<a href=" "> </a>|<a href="#clean-code">Clean Code</a>|<a href=""></a>|
+| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#methodology">Methodology</a>|<a href="#javascript">Javascript</a>|
+| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href="#typescript">Typescript</a>|
 
 
 
@@ -27,6 +27,16 @@ Now here it goes!
 ********************************************************************************
 
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
+
+
+<h2 href="algotithms"> Algorithms</h2> :pushpin:
+
+- [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
+
+#### ---- Book Notes :books:
+
+- [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71) :books:
+- [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:
 
 
 <h2 id='android'>Android</h2>      :pushpin:
@@ -70,17 +80,8 @@ Now here it goes!
 *   [HSV color](https://github.com/puddlejumper26/blogs/issues/54)
 *   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
 
-## Data Structure & Algorithms :pushpin:
-### - Algorithms
 
-- [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
-
-#### ---- Book Notes :books:
-
-- [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71) :books:
-- [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:
-
-### - Data Structure
+<h2 href="data-structure"> Data Structure</h2> :pushpin:
 - [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
 
 
