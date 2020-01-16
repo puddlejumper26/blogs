@@ -20,9 +20,6 @@ Now here it goes!
 | <a href="ios">IOS</a> |<a href="angular-testing">Angular-Testing</a> |<a href=""></a>|<a href="rxjs">Rxjs</a>|<a href="clean-code">Clean Code</a>|<a href=""></a>|
 | <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="methodology">Methodology</a>|<a href="javascript">Javascript</a>|
 | <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href="typescript">Typescript</a>|
-| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href=""></a>|
-| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href=""></a>|
-| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href=""></a>|
 
 
 
