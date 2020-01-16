@@ -44,7 +44,6 @@ Now here it goes!
 
 <h2 id='angular'>Angular :pushpin:</h2> 
 
-
 - [ @HostBinding and @HostListener in Angular](https://github.com/puddlejumper26/blogs/issues/10)
 - [@Input and @Output in Angular](https://github.com/puddlejumper26/blogs/issues/52)
 - [Angular Form - Reactive Form](https://github.com/puddlejumper26/blogs/issues/59)
@@ -72,6 +71,7 @@ Now here it goes!
 
 
 <h2 id='css-scss-less'>CSS SCSS LESS</h2> :pushpin:
+
 *   [49 CSS notes (Translation)](https://github.com/puddlejumper26/blogs/issues/33)
 *   [Add a Scrollbar in CSS](https://github.com/puddlejumper26/blogs/issues/28)
 *   [Color Wheel](https://github.com/puddlejumper26/blogs/issues/53)
@@ -82,6 +82,7 @@ Now here it goes!
 
 
 <h2 href="data-structure"> Data Structure   :pushpin:</h2>
+
 - [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
 
 
@@ -93,9 +94,12 @@ Now here it goes!
 *   [How much of hash is enough for a git command](https://github.com/puddlejumper26/blogs/issues/77)
 *   [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
 
+
 <h2 id='ios'>IOS  :pushpin:</h2>
+
 - [apple-touch-icon](https://github.com/puddlejumper26/blogs/issues/66)
 - [mask-icon on apple ios](https://github.com/puddlejumper26/blogs/issues/65)
+
 
 
 <h2 id='javascript'>JAVASCRIPT  :pushpin:</h2>
@@ -111,7 +115,10 @@ Now here it goes!
 *   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
   
 
+
+
 <h2 id="methodology">Methodology  :pushpin:</h2>
+
 ---- Book Notes 整体方法论
 - [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72) :books:
 - [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
@@ -122,7 +129,10 @@ Now here it goes!
 *   [Notes of Rxjs Library for Angular](https://github.com/puddlejumper26/blogs/issues/12)
 
  
+ 
+ 
 <h2 id="angular-testing">Testing - Angular  :pushpin:</h2>
+
 *   [ActivatedRoute, serviceSpy, routerSpy in Angular Testing](https://github.com/puddlejumper26/blogs/issues/35)
 *   [Async in Angular Testing](https://github.com/puddlejumper26/blogs/issues/39)
 *   [calls.reset() in Angular Testing](https://github.com/puddlejumper26/blogs/issues/22)
@@ -145,6 +155,7 @@ Now here it goes!
 
 
 <h2 id="typescript">TypeScript  :pushpin:</h2>
+
 *   [!!, !: and ?: in TypeScript](https://github.com/puddlejumper26/blogs/issues/8)
 *   [Date() input with format: from yyyy-mm-ddt00-00-00.000z to yyyy-mm-ddt23-59-59.999z](https://github.com/puddlejumper26/blogs/issues/41)
 *   [Dto document in project](https://github.com/puddlejumper26/blogs/issues/44)
