@@ -14,26 +14,28 @@ Now here it goes!
 :seven: :seven:
  </p>
 
-<a href="#git">Git</a>
+| Devices | Framework| Data Structure| Libraries | Tools | Languages|
+|-|-|-|-|-|-|
+| <a href="android">Android</a> |<a href="angular">Angular</a> |<a href="data-structure">Data Structure & Algorithms</a>|<a href=""></a>|<a href="git">Git</a>|<a href="css-scss-less">Css Scss Less</a>|
+| <a href="ios">IOS</a> |<a href="angular-testing">Angular-Testing</a> |<a href=""></a>|<a href="rxjs">Rxjs</a>|<a href="clean-code">Clean Code</a>|<a href=""></a>|
+| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="methodology">Methodology</a>|<a href="javascript">Javascript</a>|
+| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href="typescript">Typescript</a>|
+| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href=""></a>|
+| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href=""></a>|
+| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href=""></a>|
 
-### Place 1
 
-Hello, this is some text to fill in this, [here](#git), is a link to the second place.
 
-### Place 2
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
 ********************************************************************************
 
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
 
-## Android
 <h2 id='android'>Android</h2>      :pushpin:
 
 
-## Angular :pushpin:
+<h2 id='angular'>Angular</h2>  :pushpin:
 
 
 - [ @HostBinding and @HostListener in Angular](https://github.com/puddlejumper26/blogs/issues/10)
