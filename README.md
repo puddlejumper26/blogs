@@ -29,7 +29,7 @@ Now here it goes!
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
 
-<h2 href="algotithms"> Algorithms :pushpin:</h2> 
+<h2 href="algorithms"> Algorithms :pushpin:</h2> 
 
 - [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
 
@@ -81,7 +81,7 @@ Now here it goes!
 *   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
 
 
-<h2 href="data-structure"> Data Structure   :pushpin:</h2>
+<h2 id="data-structure"> Data Structure   :pushpin:</h2>
 
 - [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
 
