@@ -61,10 +61,10 @@ Now here it goes!
 
 
 
-## Clean Code :pushpin:
+<h2 id='clean-code'> Clean Code </h2> :pushpin:
 
 
-## CSS SCSS LESS :pushpin:
+<h2 id='css-scss-less'>CSS SCSS LESS</h2> :pushpin:
 *   [49 CSS notes (Translation)](https://github.com/puddlejumper26/blogs/issues/33)
 *   [Add a Scrollbar in CSS](https://github.com/puddlejumper26/blogs/issues/28)
 *   [Color Wheel](https://github.com/puddlejumper26/blogs/issues/53)
@@ -95,12 +95,12 @@ Now here it goes!
 *   [How much of hash is enough for a git command](https://github.com/puddlejumper26/blogs/issues/77)
 *   [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
 
-## IOS :pushpin:
+<h2 id='ios'>IOS</h2> :pushpin:
 - [apple-touch-icon](https://github.com/puddlejumper26/blogs/issues/66)
 - [mask-icon on apple ios](https://github.com/puddlejumper26/blogs/issues/65)
 
 
-## JAVASCRIPT :pushpin:
+<h2 id='javascript'>JAVASCRIPT</h2> :pushpin:
 
 - [What is Gradle](https://github.com/puddlejumper26/blogs/issues/68)
 
@@ -113,18 +113,18 @@ Now here it goes!
 *   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
   
 
-## Methodology  :pushpin:
+<h2 id="methodology">Methodology</h2>  :pushpin:
 ---- Book Notes 整体方法论
 - [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72) :books:
 - [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
 
 
-## RXJS :pushpin:
+<h2 id="rxjs">RXJS</h2> :pushpin:
 
 *   [Notes of Rxjs Library for Angular](https://github.com/puddlejumper26/blogs/issues/12)
 
  
-## Testing :pushpin:
+<h2 id="angular-testing">Testing - Angular</h2> :pushpin:
 *   [ActivatedRoute, serviceSpy, routerSpy in Angular Testing](https://github.com/puddlejumper26/blogs/issues/35)
 *   [Async in Angular Testing](https://github.com/puddlejumper26/blogs/issues/39)
 *   [calls.reset() in Angular Testing](https://github.com/puddlejumper26/blogs/issues/22)
@@ -146,7 +146,7 @@ Now here it goes!
 
 
 
-## TypeScript :pushpin:
+<h2 id="typescript">TypeScript</h2> :pushpin:
 *   [!!, !: and ?: in TypeScript](https://github.com/puddlejumper26/blogs/issues/8)
 *   [Date() input with format: from yyyy-mm-ddt00-00-00.000z to yyyy-mm-ddt23-59-59.999z](https://github.com/puddlejumper26/blogs/issues/41)
 *   [Dto document in project](https://github.com/puddlejumper26/blogs/issues/44)
