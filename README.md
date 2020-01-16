@@ -29,7 +29,7 @@ Now here it goes!
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
 
-<h2 href="algotithms"> Algorithms</h2> :pushpin:
+<h2 href="algotithms"> Algorithms :pushpin:</h2> 
 
 - [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
 
@@ -39,10 +39,10 @@ Now here it goes!
 - [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:
 
 
-<h2 id='android'>Android</h2>      :pushpin:
+<h2 id='android'>Android :pushpin:</h2> 
 
 
-<h2 id='angular'>Angular</h2>  :pushpin:
+<h2 id='angular'>Angular :pushpin:</h2> 
 
 
 - [ @HostBinding and @HostListener in Angular](https://github.com/puddlejumper26/blogs/issues/10)
@@ -68,7 +68,7 @@ Now here it goes!
 
 
 
-<h2 id='clean-code'> Clean Code </h2> :pushpin:
+<h2 id='clean-code'> Clean Code   :pushpin:</h2>
 
 
 <h2 id='css-scss-less'>CSS SCSS LESS</h2> :pushpin:
@@ -81,24 +81,24 @@ Now here it goes!
 *   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
 
 
-<h2 href="data-structure"> Data Structure</h2> :pushpin:
+<h2 href="data-structure"> Data Structure   :pushpin:</h2>
 - [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
 
 
 
-<h2 id="git">Git</h2> :pushpin:
+<h2 id="git">Git  :pushpin:</h2>
 
 *   [Git all commands](https://github.com/puddlejumper26/blogs/issues/9)
 *   [Git convert CRLF to LF](https://github.com/puddlejumper26/blogs/issues/40) 
 *   [How much of hash is enough for a git command](https://github.com/puddlejumper26/blogs/issues/77)
 *   [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
 
-<h2 id='ios'>IOS</h2> :pushpin:
+<h2 id='ios'>IOS  :pushpin:</h2>
 - [apple-touch-icon](https://github.com/puddlejumper26/blogs/issues/66)
 - [mask-icon on apple ios](https://github.com/puddlejumper26/blogs/issues/65)
 
 
-<h2 id='javascript'>JAVASCRIPT</h2> :pushpin:
+<h2 id='javascript'>JAVASCRIPT  :pushpin:</h2>
 
 - [What is Gradle](https://github.com/puddlejumper26/blogs/issues/68)
 
@@ -111,18 +111,18 @@ Now here it goes!
 *   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
   
 
-<h2 id="methodology">Methodology</h2>  :pushpin:
+<h2 id="methodology">Methodology  :pushpin:</h2>
 ---- Book Notes 整体方法论
 - [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72) :books:
 - [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
 
 
-<h2 id="rxjs">RXJS</h2> :pushpin:
+<h2 id="rxjs">RXJS  :pushpin:</h2>
 
 *   [Notes of Rxjs Library for Angular](https://github.com/puddlejumper26/blogs/issues/12)
 
  
-<h2 id="angular-testing">Testing - Angular</h2> :pushpin:
+<h2 id="angular-testing">Testing - Angular  :pushpin:</h2>
 *   [ActivatedRoute, serviceSpy, routerSpy in Angular Testing](https://github.com/puddlejumper26/blogs/issues/35)
 *   [Async in Angular Testing](https://github.com/puddlejumper26/blogs/issues/39)
 *   [calls.reset() in Angular Testing](https://github.com/puddlejumper26/blogs/issues/22)
@@ -144,7 +144,7 @@ Now here it goes!
 
 
 
-<h2 id="typescript">TypeScript</h2> :pushpin:
+<h2 id="typescript">TypeScript  :pushpin:</h2>
 *   [!!, !: and ?: in TypeScript](https://github.com/puddlejumper26/blogs/issues/8)
 *   [Date() input with format: from yyyy-mm-ddt00-00-00.000z to yyyy-mm-ddt23-59-59.999z](https://github.com/puddlejumper26/blogs/issues/41)
 *   [Dto document in project](https://github.com/puddlejumper26/blogs/issues/44)
