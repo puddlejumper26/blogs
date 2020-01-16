@@ -14,7 +14,7 @@ Now here it goes!
 :seven: :seven:
  </p>
 
-[Android](#Android) 
+<a href="#git">Git</a>
 
 ### Place 1
 
@@ -86,7 +86,7 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 
 
 
-## Git :pushpin:
+<h2 id="git">Git</h2> :pushpin:
 
 *   [Git all commands](https://github.com/puddlejumper26/blogs/issues/9)
 *   [Git convert CRLF to LF](https://github.com/puddlejumper26/blogs/issues/40) 
