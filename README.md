@@ -94,7 +94,8 @@ Now here it goes!
 |          |<a href="">Composite types |                         |                          |                                |
 |          |                | <a href="">Array </a>              | <a href="">Record</a>    | <a href="">Union</a>           |
 |          |                |                                    |                          |                                |
-|          |<a href="">Abstract Data types| <a href="">Container</a>  | <a href="">List</a> |  <a href="">Tuple</a>          |
+|          |<a href="">Abstract Data types</a> |                 |                          |                                | 
+|          |                | <a href="">Container</a>  | <a href="">List</a> |  <a href="">Tuple</a>          |
 |          |                | <a href="">Multimap</a>            | <a href="">Map </a>      | <a href="">Set</a>             |
 |          |                | <a href="">Multiset(bag)</a>       | <a href="">Stack</a>     | <a href="">Queue </a>          |
 |          |                |                                    |                          |                                |
