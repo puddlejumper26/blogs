@@ -70,7 +70,7 @@ Now here it goes!
 <h2 id='clean-code'> Clean Code   :pushpin:</h2>
 
 
-<h2 id='css-scss-less'>CSS SCSS LESS</h2> :pushpin:
+<h2 id='css-scss-less'>CSS SCSS LESS   :pushpin:</h2> 
 
 *   [49 CSS notes (Translation)](https://github.com/puddlejumper26/blogs/issues/33)
 *   [Add a Scrollbar in CSS](https://github.com/puddlejumper26/blogs/issues/28)
