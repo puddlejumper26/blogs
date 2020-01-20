@@ -11,7 +11,7 @@ Now here it goes!
 
 
 <p align="center">
-:seven: :seven:
+:eight: :one:
  </p>
 
 | Devices | Framework| Data Structure| Libraries | Tools | Languages| Algorithms|
@@ -19,7 +19,7 @@ Now here it goes!
 | <a href="#android">Android</a> |<a href="#angular">Angular</a> |<a href="#data-structure">Data Structure</a>|<a href="#rxjs">Rxjs</a>|<a href="#git">Git</a>|<a href="#css-scss-less">Css Scss Less</a>|<a href="#algorithms">Algorithms</a>|
 | <a href="#ios">IOS</a> |<a href="#angular-testing">Angular-Testing</a> |<a href=""></a>|<a href=" "> </a>|<a href="#clean-code">Clean Code</a>|<a href="#javascript">Javascript</a>|<a href=""></a>|
 | <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#methodology">Methodology</a>|<a href="#typescript">Typescript</a>|<a href=""></a>|
-| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href=""></a>|<a href="#"></a>|<a href=""></a>|
+| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#vim">VIM</a>|<a href="#"></a>|<a href=""></a>|
 
 
 <img src="https://user-images.githubusercontent.com/40550117/67723247-ba48d480-f9db-11e9-8d22-75fbb442a24a.jpg">
@@ -226,4 +226,6 @@ Now here it goes!
 *   [09 - Decorator](https://github.com/puddlejumper26/blogs/issues/43)
 
 
+<h2 id="vim">VIM :pushpin:</h2>
+- [Why VIM](https://github.com/puddlejumper26/blogs/issues/81)
 
