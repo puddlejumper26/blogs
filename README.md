@@ -85,7 +85,7 @@ Now here it goes!
 
 |Main| Sub| Name| Name | Name |
 |-|-|-|-|-|
-|Data Types|                               |                     |                          |                                |
+|**`Data Types`**|          |                                    |                          |                                |
 |          |<a href="https://github.com/puddlejumper26/blogs/issues/80">Primitive types</a> |                     |                          |                                |
 |          |                |<a href="">Boolean </a>             | <a href="">Character</a> | <a href="">Floating Point</a>  |
 |          |                |<a href="">Fixed-point numbers</a>  | <a href="">Integer</a>   | <a href="">Reference </a>      |
@@ -99,14 +99,14 @@ Now here it goes!
 |          |                | <a href="">Multimap</a>            | <a href="">Map </a>      | <a href="">Set</a>             |
 |          |                | <a href="">Multiset(bag)</a>       | <a href="">Stack</a>     | <a href="">Queue </a>          |
 |          |                |                                    |                          |                                |
-|Linear data structures|    |                                    |                          |                                |
+|**`Linear data structures`**|                                   |                          |                                |
 |          | Arrays         |                                    |                          |                                |
 |          |                | <a href="">Array</a>               |<a href="">Bit Array</a>  | <a href="">Bit Field</a>       |
 |          |                |<a href="">Bitboard </a>            |<a href="">Bitmap</a>     |                                |
 |          | Lists          |                                    |                          |                                |
 |          |                |<a href="">Doubly Linked list</a>   |<a href="">Array list</a> | <a href="">Linked List</a>     |
 |          |                |                                    |                          |                                |
-|Hash-based structures |    |                                    |                          |                                |
+|**`Hash-based structures`**|    |                               |                          |                                |
 |          |                | <a href="">Bloom filter</a>        |<a href="">Count-Min-sketch</a>  | <a href="">Distributed hash table</a>   |
 |          |                | <a href="">Double hashing </a>     |<a href="">Dynamic perfect hash table</a>  | <a href="">Hash array</a>   mapped trie|
 |          |                | <a href="">Hash list</a>           |<a href="">Hash table</a> | <a href="">Hash tree</a>       |
