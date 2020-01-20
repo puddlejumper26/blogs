@@ -86,7 +86,7 @@ Now here it goes!
 |Main| Sub| Name| Name | Name |
 |-|-|-|-|-|
 |Data Types|                               |                     |                          |                                |
-|          |<a href="">Primitive types</a> |                     |                          |                                |
+|          |<a href="https://github.com/puddlejumper26/blogs/issues/80">Primitive types</a> |                     |                          |                                |
 |          |                |<a href="">Boolean </a>             | <a href="">Character</a> | <a href="">Floating Point</a>  |
 |          |                |<a href="">Fixed-point numbers</a>  | <a href="">Integer</a>   | <a href="">Reference </a>      |
 |          |                | <a href="">Enumerated type</a>     |                          |                                |
