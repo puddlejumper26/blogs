@@ -85,33 +85,33 @@ Now here it goes!
 
 |Main| Sub| Name| Name | Name |
 |-|-|-|-|-|
-|Data Types|                |                     |           |                 |
-|          |Primitive types |                     |           |                 |
-|          |                |Boolean              | Character | Floating Point  |
-|          |                |Fixed-point numbers  | Integer   | Reference       |
-|          |                | Enumerated type     |           |                 |
-|          |                |                     |           |                 |
-|          |Composite types |                     |           |                 |
-|          |                | Array               | Record    | Union           |
-|          |                |                     |           |                 |
-|          |Abstract Data types| Container        | List      |  Tuple          |
-|          |                | Multimap            | Map       | Set             |
-|          |                | Multiset(bag)       | Stack     | Queue           |
-|          |                |                     |           |                 |
-|Linear data structures|    |                     |           |                 |
-|          | Arrays         |                     |           |                 |
-|          |                | Array               |Bit Array  | Bit Field       |
-|          |                |Bitboard             |Bitmap     |                 |
-|          | Lists          |                     |           |                 |
-|          |                |Doubly Linked list   |Array list | Linked List     |
-|          |                |                     |           |                 |
-|Hash-based structures |    |                     |           |                 |
-|          |                | Bloom filter        |Count-Min-sketch| Distributed hash table |
-|          |                | Double hashing      |Dynamic perfect hash table| Hash array mapped trie|
-|          |                | Hash list           |Hash table | Hash tree       |
-|          |                | Hash trie           |Koorde     | Prefix hash tree|
-|          |                | Rolling hash        |Minhash    | Quotient filter |
-|          |                | Ctrie               |           |                 |
+|Data Types|                               |                     |                          |                                |
+|          |<a href="">Primitive types</a> |                     |                          |                                |
+|          |                |<a href="">Boolean </a>             | <a href="">Character</a> | <a href="">Floating Point</a>  |
+|          |                |<a href="">Fixed-point numbers</a>  | <a href="">Integer</a>   | <a href="">Reference </a>      |
+|          |                | <a href="">Enumerated type</a>     |                          |                                |
+|          |                |                                    |                          |                                |
+|          |<a href="">Composite types |                         |                          |                                |
+|          |                | <a href="">Array </a>              | <a href="">Record</a>    | <a href="">Union</a>           |
+|          |                |                                    |                          |                                |
+|          |<a href="">Abstract Data types| <a href="">Container</a>  | <a href="">List</a> |  <a href="">Tuple</a>          |
+|          |                | <a href="">Multimap</a>            | <a href="">Map </a>      | <a href="">Set</a>             |
+|          |                | <a href="">Multiset(bag)</a>       | <a href="">Stack</a>     | <a href="">Queue </a>          |
+|          |                |                                    |                          |                                |
+|Linear data structures|    |                                    |                          |                                |
+|          | Arrays         |                                    |                          |                                |
+|          |                | <a href="">Array</a>               |<a href="">Bit Array</a>  | <a href="">Bit Field</a>       |
+|          |                |<a href="">Bitboard </a>            |<a href="">Bitmap</a>     |                                |
+|          | Lists          |                                    |                          |                                |
+|          |                |<a href="">Doubly Linked list</a>   |<a href="">Array list</a> | <a href="">Linked List</a>     |
+|          |                |                                    |                          |                                |
+|Hash-based structures |    |                                    |                          |                                |
+|          |                | <a href="">Bloom filter</a>        |<a href="">Count-Min-sketch</a>  | <a href="">Distributed hash table</a>   |
+|          |                | <a href="">Double hashing </a>     |<a href="">Dynamic perfect hash table</a>  | <a href="">Hash array</a>   mapped trie|
+|          |                | <a href="">Hash list</a>           |<a href="">Hash table</a> | <a href="">Hash tree</a>       |
+|          |                | <a href="">Hash trie </a>          |<a href="">Koorde</a>     | <a href="">Prefix hash tree</a>|
+|          |                | <a href="">Rolling hash</a>        |<a href="">Minhash</a>    | <a href="">Quotient filter</a> |
+|          |                | <a href="">Ctrie  </a>             |                          |                                |
 |          |                |                     |           |                 |
 |          |                |                     |           |                 |
 |          |                |                     |           |                 |
