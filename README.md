@@ -83,8 +83,54 @@ Now here it goes!
 
 <h2 id="data-structure"> Data Structure   :pushpin:</h2>
 
-- [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
+|Main| Sub| Name| Name | Name |
+|-|-|-|-|-|
+|Data Types|                |                     |           |                 |
+|          |Primitive types |                     |           |                 |
+|          |                |Boolean              | Character | Floating Point  |
+|          |                |Fixed-point numbers  | Integer   | Reference       |
+|          |                | Enumerated type     |           |                 |
+|          |                |                     |           |                 |
+|          |Composite types |                     |           |                 |
+|          |                | Array               | Record    | Union           |
+|          |                |                     |           |                 |
+|          |Abstract Data types| Container        | List      |  Tuple          |
+|          |                | Multimap            | Map       | Set             |
+|          |                | Multiset(bag)       | Stack     | Queue           |
+|          |                |                     |           |                 |
+|Linear data structures|    |                     |           |                 |
+|          | Arrays         |                     |           |                 |
+|          |                | Array               |Bit Array  | Bit Field       |
+|          |                |Bitboard             |Bitmap     |                 |
+|          | Lists          |                     |           |                 |
+|          |                |Doubly Linked list   |Array list | Linked List     |
+|          |                |                     |           |                 |
+|Hash-based structures |    |                     |           |                 |
+|          |                | Bloom filter        |Count-Min-sketch| Distributed hash table |
+|          |                | Double hashing      |Dynamic perfect hash table| Hash array mapped trie|
+|          |                | Hash list           |Hash table | Hash tree       |
+|          |                | Hash trie           |Koorde     | Prefix hash tree|
+|          |                | Rolling hash        |Minhash    | Quotient filter |
+|          |                | Ctrie               |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
+|          |                |                     |           |                 |
 
+
+- - - - - - Books
+- [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
 
 
 <h2 id="git">Git  :pushpin:</h2>
