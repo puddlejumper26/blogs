@@ -227,5 +227,6 @@ Now here it goes!
 
 
 <h2 id="vim">VIM :pushpin:</h2>
+
 - [Why VIM](https://github.com/puddlejumper26/blogs/issues/81)
 
