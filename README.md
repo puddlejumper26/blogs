@@ -69,6 +69,11 @@ Now here it goes!
 <h2 id="browser">Browser  :pushpin:</h2>
 
 - [How browsers work](https://github.com/puddlejumper26/blogs/issues/85)
+- [Rendering engine and main flow](https://github.com/puddlejumper26/blogs/issues/86)
+
+
+
+
 
 <h2 id='clean-code'> Clean Code   :pushpin:</h2>
 
@@ -82,6 +87,8 @@ Now here it goes!
 *   [Hover to change the style with CSS](https://github.com/puddlejumper26/blogs/issues/32)
 *   [HSV color](https://github.com/puddlejumper26/blogs/issues/54)
 *   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
+
+
 
 
 <h2 id="data-structure"> Data Structure   :pushpin:</h2>
@@ -137,6 +144,9 @@ Now here it goes!
 - [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
 
 
+
+
+
 <h2 id="git">Git  :pushpin:</h2>
 
 *   [Git all commands](https://github.com/puddlejumper26/blogs/issues/9)
@@ -145,9 +155,14 @@ Now here it goes!
 *   [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
 
 
+
+
+
 <h2 id="http">HTTP  :pushpin:</h2>
 
 - [An overview of HTTP](https://github.com/puddlejumper26/blogs/issues/84)
+
+
 
 
 
@@ -155,6 +170,8 @@ Now here it goes!
 
 - [apple-touch-icon](https://github.com/puddlejumper26/blogs/issues/66)
 - [mask-icon on apple ios](https://github.com/puddlejumper26/blogs/issues/65)
+
+
 
 
 
@@ -173,6 +190,8 @@ Now here it goes!
 
 
 
+
+
 <h2 id="methodology">Methodology  :pushpin:</h2>
 
 ---- Book Notes 整体方法论
@@ -180,10 +199,15 @@ Now here it goes!
 - [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
 
 
+
+
+
 <h2 id="rxjs">RXJS  :pushpin:</h2>
 
 *   [Notes of Rxjs Library for Angular](https://github.com/puddlejumper26/blogs/issues/12)
 
+ 
+ 
  
  
  
@@ -233,6 +257,9 @@ Now here it goes!
 *   [07 - Mysql Mongodb Mssql](https://github.com/puddlejumper26/blogs/issues/36)
 *   [08 - import { } with as && export default](https://github.com/puddlejumper26/blogs/issues/37)
 *   [09 - Decorator](https://github.com/puddlejumper26/blogs/issues/43)
+
+
+
 
 
 <h2 id="vim">VIM :pushpin:</h2>
