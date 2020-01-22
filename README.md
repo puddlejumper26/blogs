@@ -11,7 +11,7 @@ Now here it goes!
 
 
 <p align="center">
-:eight: :five:
+:eight: :seven:
  </p>
 
 | Devices | Framework| Data Structure| Libraries | Tools | Languages| Algorithms| Web |
