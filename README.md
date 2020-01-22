@@ -66,7 +66,7 @@ Now here it goes!
 - [Web App Manifest](https://github.com/puddlejumper26/blogs/issues/63)
 
 
-<h2 id="browser">Browser</h2>
+<h2 id="browser">Browser  :pushpin:</h2>
 
 <h2 id='clean-code'> Clean Code   :pushpin:</h2>
 
