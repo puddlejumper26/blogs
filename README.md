@@ -67,6 +67,7 @@ Now here it goes!
 
 
 <h2 id="browser">Browser  :pushpin:</h2>
+- [How browsers work](https://github.com/puddlejumper26/blogs/issues/85)
 
 <h2 id='clean-code'> Clean Code   :pushpin:</h2>
 
