@@ -70,8 +70,9 @@ Now here it goes!
 
 - [How browsers work](https://github.com/puddlejumper26/blogs/issues/85)
 - [HTML Parser](https://github.com/puddlejumper26/blogs/issues/88)
-- [Rendering engine and main flow](https://github.com/puddlejumper26/blogs/issues/86)
 - [Parsing general](https://github.com/puddlejumper26/blogs/issues/87)
+- [Rendering engine and main flow](https://github.com/puddlejumper26/blogs/issues/86)
+
 
 
 
