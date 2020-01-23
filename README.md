@@ -69,9 +69,9 @@ Now here it goes!
 <h2 id="browser">Browser  :pushpin:</h2>
 
 - [How browsers work](https://github.com/puddlejumper26/blogs/issues/85)
-- [Parsing general](https://github.com/puddlejumper26/blogs/issues/87)
+- [HTML Parser](https://github.com/puddlejumper26/blogs/issues/88)
 - [Rendering engine and main flow](https://github.com/puddlejumper26/blogs/issues/86)
-
+- [Parsing general](https://github.com/puddlejumper26/blogs/issues/87)
 
 
 
