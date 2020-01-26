@@ -164,7 +164,7 @@ Now here it goes!
 
 - [An overview of HTTP](https://github.com/puddlejumper26/blogs/issues/84)
 - [Introduction and Versions of HTTP](https://github.com/puddlejumper26/blogs/issues/89)
-
+- [Basics of HTTP](https://github.com/puddlejumper26/blogs/issues/90)
 
 
 
