@@ -163,6 +163,7 @@ Now here it goes!
 <h2 id="http">HTTP  :pushpin:</h2>
 
 - [An overview of HTTP](https://github.com/puddlejumper26/blogs/issues/84)
+- [A typical HTTP session](https://github.com/puddlejumper26/blogs/issues/92)
 - [Introduction and Versions of HTTP](https://github.com/puddlejumper26/blogs/issues/89)
 - [Basics of HTTP](https://github.com/puddlejumper26/blogs/issues/90)
 
