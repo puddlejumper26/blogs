@@ -29,7 +29,7 @@ Now here it goes!
 ## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
 
-<h2 href="algorithms"> Algorithms :pushpin:</h2> 
+<h2 id="algorithms"> Algorithms :pushpin:</h2> 
 
 - [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
 
