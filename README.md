@@ -73,6 +73,7 @@ Now here it goes!
 - [HTML Parser](https://github.com/puddlejumper26/blogs/issues/88)
 - [Parsing general](https://github.com/puddlejumper26/blogs/issues/87)
 - [Rendering engine and main flow](https://github.com/puddlejumper26/blogs/issues/86)
+- [The order of processing scripts and style sheets](https://github.com/puddlejumper26/blogs/issues/93)
 
 
 
