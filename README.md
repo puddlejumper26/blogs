@@ -169,7 +169,7 @@ Now here it goes!
 - [A typical HTTP session](https://github.com/puddlejumper26/blogs/issues/92)
 - [Introduction and Versions of HTTP](https://github.com/puddlejumper26/blogs/issues/89)
 - [Basics of HTTP](https://github.com/puddlejumper26/blogs/issues/90)
-
+- [URL](https://github.com/puddlejumper26/blogs/issues/96)
 
 
 <h2 id='ios'>IOS  :pushpin:</h2>
