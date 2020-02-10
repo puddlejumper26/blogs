@@ -109,7 +109,7 @@ Now here it goes!
 |          |                |<a href="https://github.com/puddlejumper26/blogs/issues/102">Fixed point</a>  | <a href="https://github.com/puddlejumper26/blogs/issues/103">Integer</a>   | <a href="https://github.com/puddlejumper26/blogs/issues/105">Reference </a>      |
 |          |                | <a href="https://github.com/puddlejumper26/blogs/issues/106">Enumerated type</a>     |                          |                                |
 |          |                |                                    |                          |                                |
-|          |<a href="">Composite types |                         |                          |                                |
+|          |<a href="https://github.com/puddlejumper26/blogs/issues/107">Composite types |                         |                          |                                |
 |          |                | <a href="">Array </a>              | <a href="">Record</a>    | <a href="">Union</a>           |
 |          |                |                                    |                          |                                |
 |          |<a href="">Abstract Data types</a> |                 |                          |                                | 
