@@ -105,7 +105,7 @@ Now here it goes!
 |-|-|-|-|-|
 |**`Data Types`**|          |                                    |                          |                                |
 |          |<a href="https://github.com/puddlejumper26/blogs/issues/80">Primitive types</a> |                     |                          |                                |
-|          |                |<a href="">Boolean </a>             | <a href="">Character</a> | <a href="https://github.com/puddlejumper26/blogs/issues/83">Floating Point</a>  |
+|          |                |<a href="">Boolean </a>             | <a href="https://github.com/puddlejumper26/blogs/issues/101">Character</a> | <a href="https://github.com/puddlejumper26/blogs/issues/83">Floating Point</a>  |
 |          |                |<a href="">Fixed-point numbers</a>  | <a href="">Integer</a>   | <a href="">Reference </a>      |
 |          |                | <a href="">Enumerated type</a>     |                          |                                |
 |          |                |                                    |                          |                                |
