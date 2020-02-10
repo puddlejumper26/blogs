@@ -11,7 +11,7 @@ Now here it goes!
 
 
 <p align="center">
-:nine: :five:
+:one: :zero: :two:
  </p>
 
 | Devices | Framework| Data Structure| Libraries | Tools | Languages| Algorithms| Web |
@@ -106,7 +106,7 @@ Now here it goes!
 |**`Data Types`**|          |                                    |                          |                                |
 |          |<a href="https://github.com/puddlejumper26/blogs/issues/80">Primitive types</a> |                     |                          |                                |
 |          |                |<a href="">Boolean </a>             | <a href="https://github.com/puddlejumper26/blogs/issues/101">Character</a> | <a href="https://github.com/puddlejumper26/blogs/issues/83">Floating Point</a>  |
-|          |                |<a href="">Fixed-point numbers</a>  | <a href="">Integer</a>   | <a href="">Reference </a>      |
+|          |                |<a href="https://github.com/puddlejumper26/blogs/issues/102">Fixed-point numbers</a>  | <a href="">Integer</a>   | <a href="">Reference </a>      |
 |          |                | <a href="">Enumerated type</a>     |                          |                                |
 |          |                |                                    |                          |                                |
 |          |<a href="">Composite types |                         |                          |                                |
