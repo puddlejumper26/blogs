@@ -18,7 +18,7 @@ Now here it goes!
 |-|-|-|-|-|-|-|-|
 | <a href="#android">Android</a> |<a href="#angular">Angular</a> |<a href="#data-structure">Data Structure</a>|<a href="#rxjs">Rxjs</a>|<a href="#git">Git</a>|<a href="#css-scss-less">Css Scss Less</a>|<a href="#algorithms">Algorithms</a>|<a href="#browser">Browser</a>|
 | <a href="#ios">IOS</a> |<a href="#angular-testing">Angular-Testing</a> |<a href=""></a>|<a href=" "> </a>|<a href="#code">Code</a>|<a href="#javascript">Javascript</a>|<a href=""></a>|<a href="#http">HTTP</a>|
-| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#methodology">Methodology</a>|<a href="#typescript">Typescript</a>|<a href=""></a>|<a href=""></a>|
+| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#methodology">Methodology</a>|<a href="#typescript">Typescript</a>|<a href=""></a>|<a href="#websocket">Websocket</a>|
 | <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#vim">VIM</a>|<a href="#"></a>|<a href=""></a>|<a href=""></a>|
 
 
@@ -275,3 +275,6 @@ Now here it goes!
 
 - [Why VIM](https://github.com/puddlejumper26/blogs/issues/81)
 
+
+<h2 id="websocket">Websocket</h2>
+- [Websocket](https://github.com/puddlejumper26/blogs/issues/104)
