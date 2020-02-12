@@ -11,7 +11,7 @@ Now here it goes!
 
 
 <p align="center">
-:one: :zero: :eight:
+:point_right: :one: :zero: :eight: :point_left:
  </p>
 
 | Devices | Framework| Data Structure| Libraries | Tools | Languages| Algorithms| Web |
