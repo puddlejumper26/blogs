@@ -227,6 +227,7 @@ Now here it goes!
 *   [calls.reset() in Angular Testing](https://github.com/puddlejumper26/blogs/issues/22)
 *   [CSS Selectors for Angular Testing](https://github.com/puddlejumper26/blogs/issues/4)
 *   [Date input testing in Angular (Notification)](https://github.com/puddlejumper26/blogs/issues/31)
+*   [How to test an @Input varaible inside Angular Testing](https://github.com/puddlejumper26/blogs/issues/108)
 *   [innerHtml,innerText,innerContent in Testing](https://github.com/puddlejumper26/blogs/issues/34)
 *   [Mock a path in spec file](https://github.com/puddlejumper26/blogs/issues/45)
 *   [Pipe testing in Angular](https://github.com/puddlejumper26/blogs/issues/58)
