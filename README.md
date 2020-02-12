@@ -90,6 +90,7 @@ Now here it goes!
 
 *   [49 CSS notes (Translation)](https://github.com/puddlejumper26/blogs/issues/33)
 *   [Add a Scrollbar in CSS](https://github.com/puddlejumper26/blogs/issues/28)
+*   [Absolute and Relative](https://github.com/puddlejumper26/blogs/issues/109)
 *   [Color Wheel](https://github.com/puddlejumper26/blogs/issues/53)
 *   [CSS functions & Less Functions](https://github.com/puddlejumper26/blogs/issues/55)
 *   [Hover to change the style with CSS](https://github.com/puddlejumper26/blogs/issues/32)
