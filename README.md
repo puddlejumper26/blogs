@@ -113,7 +113,7 @@ Now here it goes!
 |          |<a href="https://github.com/puddlejumper26/blogs/issues/107">Composite types |                         |                          |                                |
 |          |                | <a href="https://github.com/puddlejumper26/blogs/issues/110">Array </a>              | <a href="">Record</a>    | <a href="">Union</a>           |
 |          |                |                                    |                          |                                |
-|          |<a href="">Abstract Data types</a> |                 |                          |                                | 
+|          |<a href="https://github.com/puddlejumper26/blogs/issues/111">Abstract Data types</a> |                 |                          |                                | 
 |          |                | <a href="">Container</a>  | <a href="">List</a> |  <a href="">Tuple</a>          |
 |          |                | <a href="">Multimap</a>            | <a href="">Map </a>      | <a href="">Set</a>             |
 |          |                | <a href="">Multiset(bag)</a>       | <a href="">Stack</a>     | <a href="">Queue </a>          |
