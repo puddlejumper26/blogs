@@ -111,7 +111,7 @@ Now here it goes!
 |          |                | <a href="https://github.com/puddlejumper26/blogs/issues/106">Enumerated type</a>     |                          |                                |
 |          |                |                                    |                          |                                |
 |          |<a href="https://github.com/puddlejumper26/blogs/issues/107">Composite types |                         |                          |                                |
-|          |                | <a href="">Array </a>              | <a href="">Record</a>    | <a href="">Union</a>           |
+|          |                | <a href="https://github.com/puddlejumper26/blogs/issues/110">Array </a>              | <a href="">Record</a>    | <a href="">Union</a>           |
 |          |                |                                    |                          |                                |
 |          |<a href="">Abstract Data types</a> |                 |                          |                                | 
 |          |                | <a href="">Container</a>  | <a href="">List</a> |  <a href="">Tuple</a>          |
