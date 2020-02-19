@@ -114,7 +114,7 @@ Now here it goes!
 |          |                | <a href="https://github.com/puddlejumper26/blogs/issues/110">Array </a>              | <a href="">Record</a>    | <a href="">Union</a>           |
 |          |                |                                    |                          |                                |
 |          |<a href="https://github.com/puddlejumper26/blogs/issues/111">Abstract Data types</a> |                 |                          |                                | 
-|          |                | <a href="https://github.com/puddlejumper26/blogs/issues/112">Container</a>  | <a href="https://github.com/puddlejumper26/blogs/issues/113">List</a> |  <a href="">Tuple</a>          |
+|          |                | <a href="https://github.com/puddlejumper26/blogs/issues/112">Container</a>  | <a href="https://github.com/puddlejumper26/blogs/issues/113">List</a> |  <a href="https://github.com/puddlejumper26/blogs/issues/114">Tuple</a>          |
 |          |                | <a href="">Multimap</a>            | <a href="">Map </a>      | <a href="">Set</a>             |
 |          |                | <a href="">Multiset(bag)</a>       | <a href="">Stack</a>     | <a href="">Queue </a>          |
 |          |                |                                    |                          |                                |
