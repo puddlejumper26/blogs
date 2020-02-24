@@ -121,7 +121,7 @@ Now here it goes!
 |**`Linear data structures`**|                                   |                          |                                |
 |          | Arrays         |                                    |                          |                                |
 |          |                | <a href="">Array</a>               |<a href="https://github.com/puddlejumper26/blogs/issues/120">Bit Array</a>  | <a href="https://github.com/puddlejumper26/blogs/issues/121">Bit Field</a>       |
-|          |                |<a href="">Bitboard </a>            |<a href="">Bitmap</a>     |                                |
+|          |                |<a href="https://github.com/puddlejumper26/blogs/issues/122">Bitboard </a>            |<a href="">Bitmap</a>     |                                |
 |          | Lists          |                                    |                          |                                |
 |          |                |<a href="">Doubly Linked list</a>   |<a href="">Array list</a> | <a href="">Linked List</a>     |
 |          |                |                                    |                          |                                |
