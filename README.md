@@ -123,7 +123,7 @@ Now here it goes!
 |          |                | <a href="">Array</a>               |<a href="https://github.com/puddlejumper26/blogs/issues/120">Bit Array</a>  | <a href="https://github.com/puddlejumper26/blogs/issues/121">Bit Field</a>       |
 |          |                |<a href="https://github.com/puddlejumper26/blogs/issues/122">Bitboard </a>            |<a href="">Bitmap</a>     |                                |
 |          | Lists          |                                    |                          |                                |
-|          |                |<a href="">Doubly Linked list</a>   |<a href="">Array list</a> | <a href="">Linked List</a>     |
+|          |                |<a href="https://github.com/puddlejumper26/blogs/issues/123">Doubly Linked list</a>   |<a href="">Array list</a> | <a href="">Linked List</a>     |
 |          |                |                                    |                          |                                |
 |**`Hash-based structures`**|    |                               |                          |                                |
 |          |                | <a href="">Bloom filter</a>        |<a href="">Count-Min-sketch</a>  | <a href="">Distributed hash table</a>   |
