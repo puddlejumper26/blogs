@@ -85,6 +85,11 @@ Now here it goes!
 
 - [Clean Code]
 - [Code Complete 2nd Edition](https://github.com/puddlejumper26/blogs/issues/98)
+ 
+|||||||
+|-|-|-|-|-|-|
+|1|2 Metaphors for a Richer Understanding of Software Development|3 Measure Twice, Cut Once: Upstream Prerequisites|4 Key Construction Decisions|[5 Design in Construction](https://github.com/puddlejumper26/blogs/issues/98#issuecomment-611312906)|6 Working Classes|
+|7 High Quality Routines|[8 Defensive Programming](https://github.com/puddlejumper26/blogs/issues/98#issuecomment-611865941)|9 The Pseudocode Programing Process|10 General Issues in Using Variables|11 The Power of Variable Names|12 Fundamental Data Types|
 
 <h2 id='css-scss-less'>CSS SCSS LESS   :pushpin:</h2> 
 
