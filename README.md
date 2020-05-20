@@ -11,7 +11,7 @@ Now here it goes!
 
 
 <p align="center">
-:point_right: :one: :two: :four: :point_left:
+:point_right: :one: :two: :seven: :point_left:
  </p>
 
 | Devices | Framework| Data Structure| Libraries | Tools | Languages| Algorithms| Web |
