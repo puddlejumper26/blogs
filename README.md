@@ -62,11 +62,11 @@ Now here it goes!
 - [Public, Private, Protected, Static and Abstract in Angular Component](https://github.com/puddlejumper26/blogs/issues/7)
 - [Resolve in Angular Routing](https://github.com/puddlejumper26/blogs/issues/16)
 - [RouterLinkActive in Angular - keep focused element in style](https://github.com/puddlejumper26/blogs/issues/42)
+- [RxJS tap](https://github.com/puddlejumper26/blogs/issues/127)
 - [The advantage of Angular and MVC](https://github.com/puddlejumper26/blogs/issues/49) 
 - [Theming in Angular Material (Color Palatte)](https://github.com/puddlejumper26/blogs/issues/47)
 - [Services in Angular](https://github.com/puddlejumper26/blogs/issues/13)
 - [Web App Manifest](https://github.com/puddlejumper26/blogs/issues/63)
-
 
 <h2 id="browser">Browser  :pushpin:</h2>
 
