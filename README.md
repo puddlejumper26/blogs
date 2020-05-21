@@ -63,6 +63,7 @@ Now here it goes!
 - [Resolve in Angular Routing](https://github.com/puddlejumper26/blogs/issues/16)
 - [RouterLinkActive in Angular - keep focused element in style](https://github.com/puddlejumper26/blogs/issues/42)
 - [RxJS tap](https://github.com/puddlejumper26/blogs/issues/127)
+- [RxJS catchError](https://github.com/puddlejumper26/blogs/issues/128)
 - [The advantage of Angular and MVC](https://github.com/puddlejumper26/blogs/issues/49) 
 - [Theming in Angular Material (Color Palatte)](https://github.com/puddlejumper26/blogs/issues/47)
 - [Services in Angular](https://github.com/puddlejumper26/blogs/issues/13)
