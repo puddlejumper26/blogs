@@ -150,7 +150,7 @@ Now here it goes!
 |          |                |                     |           |                 |
 
 
-- - - - - - Books
+------ Books
 - [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
 
 
@@ -190,11 +190,11 @@ Now here it goes!
 
 - [What is Gradle](https://github.com/puddlejumper26/blogs/issues/68)
 
-- - - - - - Useful online courses
+------ Useful online courses
 *   [The Modern JavaScript Tutorial](https://javascript.info/)
 
 
-- - - - - - Basic Knowledge
+------ Basic Knowledge
 
 *   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
   
@@ -258,7 +258,7 @@ Now here it goes!
 *   [The Array.prototype.map( ) in JavaScript](https://github.com/puddlejumper26/blogs/issues/2)
 *   [Why defining Variables inside constructor of TS](https://github.com/puddlejumper26/blogs/issues/61)
 
-- - - - - - Basic Knowledge
+------ Basic Knowledge
 
 *   [01 - Basic Types in TypeScript](https://github.com/puddlejumper26/blogs/issues/19)
 *   [02 - Class and Inheritance in JavaScript](https://github.com/puddlejumper26/blogs/issues/23)
