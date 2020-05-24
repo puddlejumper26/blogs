@@ -9,6 +9,9 @@ Now here it goes!
 2. Better in Thoughts and Concepts
 
 
+### [How to build own website](https://github.com/puddlejumper26/blogs/issues/129)
+
+
 
 <p align="center">
 :point_right: :one: :two: :eight: :point_left:
