@@ -20,7 +20,7 @@ Now here it goes!
 | Devices | Framework| Data Structure| Libraries | Tools | Languages| Algorithms| Web |
 |-|-|-|-|-|-|-|-|
 | <a href="#android">Android</a> |<a href="#angular">Angular</a> |<a href="#data-structure">Data Structure</a>|<a href="#rxjs">Rxjs</a>|<a href="#git">Git</a>|<a href="#css-scss-less">Css Scss Less</a>|<a href="#algorithms">Algorithms</a>|<a href="#browser">Browser</a>|
-| <a href="#ios">IOS</a> |<a href="#angular-testing">Angular-Testing</a> |<a href=""></a>|<a href=" "> </a>|<a href="#code">Code</a>|<a href="#javascript">Javascript</a>|<a href=""></a>|<a href="#http">HTTP</a>|
+| <a href="#ios">IOS</a> |<a href="#angular-testing">Angular-Testing</a> |<a href=""></a>|<a href=" "> </a>|<a href="#book">Book</a>|<a href="#javascript">Javascript</a>|<a href=""></a>|<a href="#http">HTTP</a>|
 | <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#methodology">Methodology</a>|<a href="#typescript">Typescript</a>|<a href=""></a>|<a href="#websocket">Websocket</a>|
 | <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#vim">VIM</a>|<a href="#"></a>|<a href=""></a>|<a href=""></a>|
 
@@ -35,11 +35,6 @@ Now here it goes!
 <h2 id="algorithms"> Algorithms :pushpin:</h2> 
 
 - [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
-
-#### ---- Book Notes :books:
-
-- [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71) :books:
-- [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:
 
 
 <h2 id='android'>Android :pushpin:</h2> 
@@ -82,14 +77,19 @@ Now here it goes!
 - [The order of processing scripts and style sheets](https://github.com/puddlejumper26/blogs/issues/93)
 
 
-
-
-
-<h2 id='code'> Code   :pushpin:</h2>
+<h2 id='book'> Book   :pushpin:</h2>
 
 - [Clean Code]
 - [Code Complete 2nd Edition](https://github.com/puddlejumper26/blogs/issues/98)
- 
+= = =
+- [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71) :books:
+- [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:
+- [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
+---- Book Notes 整体方法论
+- [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72) :books:
+- [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
+= = = 
+- [CSS Secret](https://puddlejumper26.github.io/js-showcases/showcases/css/css-secrets/css-secrets.html)
 
 <h2 id='css-scss-less'>CSS SCSS LESS   :pushpin:</h2> 
 
@@ -154,8 +154,6 @@ Now here it goes!
 |          |                |                     |           |                 |
 
 
------- Books
-- [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
 
 
 
@@ -209,9 +207,7 @@ Now here it goes!
 
 <h2 id="methodology">Methodology  :pushpin:</h2>
 
----- Book Notes 整体方法论
-- [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72) :books:
-- [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
+
 
 
 
