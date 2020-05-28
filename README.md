@@ -81,14 +81,14 @@ Now here it goes!
 
 - [Clean Code]
 - [Code Complete 2nd Edition](https://github.com/puddlejumper26/blogs/issues/98)
-= = =
+<br><br>
 - [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71) :books:
 - [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:
 - [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
----- Book Notes 整体方法论
+<br><br> 整体方法论
 - [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72) :books:
 - [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
-= = = 
+<br><br>
 - [CSS Secret](https://puddlejumper26.github.io/js-showcases/showcases/css/css-secrets/css-secrets.html)
 
 <h2 id='css-scss-less'>CSS SCSS LESS   :pushpin:</h2> 
