@@ -35,6 +35,9 @@ Now here it goes!
 <h2 id="algorithms"> Algorithms :pushpin:</h2> 
 
 - [Leetcode](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/leetcode/leetcode-algorithms.html#)
+- [stack-进制转换-回文](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/basics/stack-进制转换-回文.html)
+- [Queue](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/basics/queue.html)
+- [Linked List 链表](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/basics/linkedlist.html)
 
 
 <h2 id='android'>Android :pushpin:</h2> 
