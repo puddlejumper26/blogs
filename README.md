@@ -14,7 +14,7 @@ Now here it goes!
 
 
 <p align="center">
-:point_right: :one: :four: :five: :point_left:
+:point_right: :one: :two: :eight: :point_left:
  </p>
 
 | Devices | Framework| Data Structure| Libraries | Tools | Languages| Algorithms| Web |
@@ -213,6 +213,10 @@ Now here it goes!
 
 
 
+<h2 id="rxjs">REGEXP  :pushpin:</h2>
+
+- [JS RegExp PDF](https://puddlejumper26.github.io/js-showcases/resources/books/02-JS/JavaScriptRegExp.pdf)
+- [RegExp online Visualizer (better)](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
 
 
 
