@@ -20,7 +20,7 @@ Now here it goes!
 | Devices | Framework| Data Structure| Libraries | Tools | Languages| Algorithms| Web |
 |-|-|-|-|-|-|-|-|
 | <a href="#android">Android</a> |<a href="#angular">Angular</a> |<a href="#data-structure">Data Structure</a>|<a href="#rxjs">Rxjs</a>|<a href="#git">Git</a>|<a href="#css-scss-less">Css Scss Less</a>|<a href="#algorithms">Algorithms</a>|<a href="#browser">Browser</a>|
-| <a href="#ios">IOS</a> |<a href="#angular-testing">Angular-Testing</a> |<a href=""></a>|<a href=" "> </a>|<a href="#book">Book</a>|<a href="#javascript">Javascript</a>|<a href=""></a>|<a href="#http">HTTP</a>|
+| <a href="#ios">IOS</a> |<a href="#angular-testing">Angular-Testing</a> |<a href=""></a>|<a href=" "> </a>|<a href="#book">Book</a>|<a href="#javascript">Javascript</a>|<a href="#regexp">REGEXP</a>|<a href="#http">HTTP</a>|
 | <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#methodology">Methodology</a>|<a href="#typescript">Typescript</a>|<a href=""></a>|<a href="#websocket">Websocket</a>|
 | <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#vim">VIM</a>|<a href="#"></a>|<a href=""></a>|<a href=""></a>|
 
@@ -213,7 +213,7 @@ Now here it goes!
 
 
 
-<h2 id="rxjs">REGEXP  :pushpin:</h2>
+<h2 id="regexp">REGEXP  :pushpin:</h2>
 
 - [JS RegExp PDF](https://puddlejumper26.github.io/js-showcases/resources/books/02-JS/JavaScriptRegExp.pdf)
 - [RegExp online Visualizer (better)](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
