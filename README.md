@@ -17,13 +17,57 @@ Now here it goes!
 :point_right: :one: :two: :eight: :point_left:
  </p>
 
-| Devices | Framework| Data Structure| Libraries | Tools | Languages| Algorithms| Web |
-|-|-|-|-|-|-|-|-|
-| <a href="#android">Android</a> |<a href="#angular">Angular</a> |<a href="#data-structure">Data Structure</a>|<a href="#rxjs">Rxjs</a>|<a href="#git">Git</a>|<a href="#css-scss-less">Css Scss Less</a>|<a href="#algorithms">Algorithms</a>|<a href="#browser">Browser</a>|
-| <a href="#ios">IOS</a> |<a href="#angular-testing">Angular-Testing</a> |<a href=""></a>|<a href=" "> </a>|<a href="#book">Book</a>|<a href="#javascript">Javascript</a>|<a href="#regexp">REGEXP</a>|<a href="#http">HTTP</a>|
-| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#methodology">Methodology</a>|<a href="#typescript">Typescript</a>|<a href=""></a>|<a href="#websocket">Websocket</a>|
-| <a href=""> </a> |<a href=" "> </a> |<a href=""></a>|<a href=""></a>|<a href="#vim">VIM</a>|<a href="#"></a>|<a href=""></a>|<a href=""></a>|
-
+   <table>
+        <tr>
+            <th> Devices</th>
+            <th> <a href="#android">Android</a></th>
+            <th><a href="#ios">IOS</a> </th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Framework</th>
+            <th><a href="#angular">Angular</a> </th>
+            <th><a href="#angular-testing">Angular-Testing</a></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Data Structure</th>
+            <th><a href="#data-structure">Data Structure</a></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Libraries</th>
+            <th><a href="#rxjs">Rxjs</a></th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Tools</th>
+            <th><a href="#git">Git</a></th>
+            <th><a href="#book">Book</a></th>
+            <th><a href="#methodology">Methodology</a></th>
+            <th><a href="#vim">VIM</a></th>
+        </tr>
+         <tr>
+            <th>Languages</th>
+            <th><a href="#css-scss-less">Css Scss Less</a></th>
+            <th><a href="#javascript">Javascript</a></th>
+            <th><a href="#typescript">Typescript</a></th>
+        </tr>
+         <tr>
+            <th>Algorithms</th>
+            <th><a href="#algorithms">Algorithms</a></th>
+            <th><a href="#regexp">REGEXP</a></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Web</th>
+            <th><a href="#browser">Browser</a></th>
+            <th><a href="#http">HTTP</a></th>
+            <th><a href="#websocket">Websocket</a></th>
+        </tr>
+    </table>
 
 <img src="https://user-images.githubusercontent.com/40550117/67723247-ba48d480-f9db-11e9-8d22-75fbb442a24a.jpg">
 
