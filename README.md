@@ -1,4 +1,4 @@
-<h1 align="center">Puddlejumper26 blogs </h1>
+<h1 align="center">Puddlejumper26's Blog </h1>
 
 Since I am a Noob, and have read quite a lot of blogs and articles about why and how to start a tech blog, 
 
