@@ -17,7 +17,26 @@ Now here it goes!
 :point_right: :one: :four: :five: :point_left:
  </p>
 
-   <table>
+   <table> 
+        <tr>
+            <th>Algorithms</th>
+            <th><a href="#algorithms">Algorithms</a></th>
+            <th><a href="#regexp">REGEXP</a></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+             <th>APP</th>
+             <th><a href="https://github.com/puddlejumper26/blogs/issues/129">Personal Website (Angular)</a></th>
+             <th><a href="https://github.com/puddlejumper26/json-server-test">json-server(angular,json-server)</a></th>
+         </tr>
+         <tr>
+            <th>Data Structure</th>
+            <th><a href="#data-structure">Data Structure</a></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
         <tr>
             <th> Devices</th>
             <th> <a href="#android">Android</a></th>
@@ -33,10 +52,10 @@ Now here it goes!
             <th></th>
         </tr>
         <tr>
-            <th>Data Structure</th>
-            <th><a href="#data-structure">Data Structure</a></th>
-            <th></th>
-            <th></th>
+            <th>Languages</th>
+            <th><a href="#css-scss-less">Css Scss Less</a></th>
+            <th><a href="#javascript">Javascript</a></th>
+            <th><a href="#typescript">Typescript</a></th>
             <th></th>
         </tr>
         <tr>
@@ -53,21 +72,7 @@ Now here it goes!
             <th><a href="#methodology">Methodology</a></th>
             <th><a href="#vim">VIM</a></th>
         </tr>
-         <tr>
-            <th>Languages</th>
-            <th><a href="#css-scss-less">Css Scss Less</a></th>
-            <th><a href="#javascript">Javascript</a></th>
-            <th><a href="#typescript">Typescript</a></th>
-            <th></th>
-        </tr>
-         <tr>
-            <th>Algorithms</th>
-            <th><a href="#algorithms">Algorithms</a></th>
-            <th><a href="#regexp">REGEXP</a></th>
-            <th></th>
-            <th></th>
-        </tr>
-         <tr>
+        <tr>
             <th>Web</th>
             <th><a href="#browser">Browser</a></th>
             <th><a href="#http">HTTP</a></th>
