@@ -1,4 +1,4 @@
-# Puddlejumper26 blogs
+<p align="center"><h1>Puddlejumper26 blogs </h1></p>
 
 Since I am a Noob, and have read quite a lot of blogs and articles about why and how to start a tech blog, 
 
@@ -7,10 +7,6 @@ Now here it goes!
 ### Reason to start this blog
 1. Better in Tech expressions
 2. Better in Thoughts and Concepts
-
-
-### [How to build own website](https://github.com/puddlejumper26/blogs/issues/129)
-
 
 
 <p align="center">
