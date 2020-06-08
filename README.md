@@ -29,6 +29,7 @@ Now here it goes!
              <th>APP</th>
              <th><a href="https://github.com/puddlejumper26/blogs/issues/129">Personal Website (Angular)</a></th>
              <th><a href="https://github.com/puddlejumper26/json-server-test">json-server(angular,json-server)</a></th>
+             <th><a href="https://puddlejumper26.github.io/xiangblog/">Blog (hexo)</a></th>
          </tr>
          <tr>
             <th>Data Structure</th>
