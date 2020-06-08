@@ -14,7 +14,7 @@ Now here it goes!
 
 
 <p align="center">
-:point_right: :one: :two: :eight: :point_left:
+:point_right: :one: :four: :five: :point_left:
  </p>
 
    <table>
@@ -23,11 +23,13 @@ Now here it goes!
             <th> <a href="#android">Android</a></th>
             <th><a href="#ios">IOS</a> </th>
             <th></th>
+            <th></th>
         </tr>
         <tr>
             <th>Framework</th>
             <th><a href="#angular">Angular</a> </th>
             <th><a href="#angular-testing">Angular-Testing</a></th>
+            <th></th>
             <th></th>
         </tr>
         <tr>
@@ -35,10 +37,12 @@ Now here it goes!
             <th><a href="#data-structure">Data Structure</a></th>
             <th></th>
             <th></th>
+            <th></th>
         </tr>
         <tr>
             <th>Libraries</th>
             <th><a href="#rxjs">Rxjs</a></th>
+            <th></th>
             <th></th>
             <th></th>
         </tr>
@@ -54,11 +58,13 @@ Now here it goes!
             <th><a href="#css-scss-less">Css Scss Less</a></th>
             <th><a href="#javascript">Javascript</a></th>
             <th><a href="#typescript">Typescript</a></th>
+            <th></th>
         </tr>
          <tr>
             <th>Algorithms</th>
             <th><a href="#algorithms">Algorithms</a></th>
             <th><a href="#regexp">REGEXP</a></th>
+            <th></th>
             <th></th>
         </tr>
          <tr>
@@ -66,6 +72,7 @@ Now here it goes!
             <th><a href="#browser">Browser</a></th>
             <th><a href="#http">HTTP</a></th>
             <th><a href="#websocket">Websocket</a></th>
+            <th></th>
         </tr>
     </table>
 
