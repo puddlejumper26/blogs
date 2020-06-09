@@ -10,7 +10,7 @@ Now here it goes!
 
 
 <p align="center">
-:point_right: :one: :four: :five: :point_left:
+:point_right: :one: :three: :zero: :point_left:
  </p>
 
    <table> 
