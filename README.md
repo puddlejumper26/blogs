@@ -23,7 +23,7 @@ Now here it goes!
         </tr>
         <tr>
              <th>APP</th>
-             <th><a href="https://github.com/puddlejumper26/blogs/issues/129">Personal Website (angular)</a></th>
+             <th><a href="https://github.com/puddlejumper26/xiangs/blob/master/README.md#-xiangs-webstie-">Personal Website (angular)</a></th>
              <th><a href="https://github.com/puddlejumper26/json-server-test#-json-server-test">json-server(angular,json-server)</a></th>
              <th><a href="https://puddlejumper26.github.io/xiangblog/">Blog (hexo)</a></th>
              <th><a href="https://github.com/puddlejumper26/hexo-theme-ashes#hexo-theme-ashes">Hexo Theme(hexo)</a></th>
