@@ -270,6 +270,7 @@ Now here it goes!
 
 
 <h2 id="methodology">Methodology  :pushpin:</h2>
+
 - [6 Highlighters in Learning](https://github.com/puddlejumper26/blogs/issues/149)
 
 
