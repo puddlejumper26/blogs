@@ -225,11 +225,11 @@ Now here it goes!
 
 <h2 id="git">Git  :pushpin:</h2>
 
-*   [Git all commands](https://github.com/puddlejumper26/blogs/issues/9)
-*   [Git convert CRLF to LF](https://github.com/puddlejumper26/blogs/issues/40) 
-*   [How much of hash is enough for a git command](https://github.com/puddlejumper26/blogs/issues/77)
-*   [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
-
+- [Git all commands](https://github.com/puddlejumper26/blogs/issues/9)
+- [Git convert CRLF to LF](https://github.com/puddlejumper26/blogs/issues/40) 
+- [How much of hash is enough for a git command](https://github.com/puddlejumper26/blogs/issues/77)
+- [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
+- [How to deploy Angular App to GitHub](https://github.com/puddlejumper26/blogs/issues/150)
 
 
 
