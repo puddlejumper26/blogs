@@ -1,6 +1,7 @@
 <h1 align="center">Puddlejumper26's Blog </h1>
 
 Since I am a Noob, and have read quite a lot of blogs and articles about why and how to start a tech blog, 
+I tried to document everything I have done, but found out it is really difficult. e.g. I finished study of Data Structure and Algorithms in JavaScript
 
 Now here it goes!
 
