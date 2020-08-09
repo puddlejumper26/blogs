@@ -118,6 +118,7 @@ Now here it goes!
 - [dependencies vs devDependencies in package.json](https://github.com/puddlejumper26/blogs/issues/67)
 - [Directives in Angular](https://github.com/puddlejumper26/blogs/issues/48)
 - [How to append and fetch Query Parameter from the URL](https://github.com/puddlejumper26/blogs/issues/97)
+- [How to embed Youtube inside Angular with [youtube-player component](https://github.com/puddlejumper26/blogs/issues/151)
 - [How to find third parties applications inside project](https://github.com/puddlejumper26/blogs/issues/69)
 - [How to use Fonts locally in Angular](https://github.com/puddlejumper26/blogs/issues/64)
 - [Interceptor in Angular](https://github.com/puddlejumper26/blogs/issues/95)
