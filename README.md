@@ -132,6 +132,7 @@ Now here it goes!
 - [Theming in Angular Material (Color Palatte)](https://github.com/puddlejumper26/blogs/issues/47)
 - [Services in Angular](https://github.com/puddlejumper26/blogs/issues/13)
 - [Web App Manifest](https://github.com/puddlejumper26/blogs/issues/63)
+- [What is Route Guard](https://github.com/puddlejumper26/blogs/issues/153)
 
 <h2 id="browser">Browser  :pushpin:</h2>
 
