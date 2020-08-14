@@ -136,7 +136,7 @@ Now here it goes!
 
 <h2 id="angular-testing">Angular - Testing   :pushpin:</h2>
 
-- [A very good video for all basics](https://github.com/puddlejumper26/blogs/issues/154)
+- [A very good video for `all basics`](https://github.com/puddlejumper26/blogs/issues/154)
 - [ActivatedRoute, serviceSpy, routerSpy in Angular Testing](https://github.com/puddlejumper26/blogs/issues/35)
 - [Async in Angular Testing](https://github.com/puddlejumper26/blogs/issues/39)
 - [calls.reset() in Angular Testing](https://github.com/puddlejumper26/blogs/issues/22)
