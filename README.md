@@ -134,6 +134,23 @@ Now here it goes!
 - [Web App Manifest](https://github.com/puddlejumper26/blogs/issues/63)
 - [What is Route Guard](https://github.com/puddlejumper26/blogs/issues/153)
 
+<h2 id="angular-testing">Angular - Testing   :pushpin:</h2>
+
+- [A very good video for all basics](https://github.com/puddlejumper26/blogs/issues/154)
+- [ActivatedRoute, serviceSpy, routerSpy in Angular Testing](https://github.com/puddlejumper26/blogs/issues/35)
+- [Async in Angular Testing](https://github.com/puddlejumper26/blogs/issues/39)
+- [calls.reset() in Angular Testing](https://github.com/puddlejumper26/blogs/issues/22)
+- [CSS Selectors for Angular Testing](https://github.com/puddlejumper26/blogs/issues/4)
+- [Date input testing in Angular (Notification)](https://github.com/puddlejumper26/blogs/issues/31)
+- [How to test an @Input varaible inside Angular Testing](https://github.com/puddlejumper26/blogs/issues/108)
+- [innerHtml,innerText,innerContent in Testing](https://github.com/puddlejumper26/blogs/issues/34)
+- [Mock a path in spec file](https://github.com/puddlejumper26/blogs/issues/45)
+- [Pipe testing in Angular](https://github.com/puddlejumper26/blogs/issues/58)
+- [Test for a simple routerLink in Angular](https://github.com/puddlejumper26/blogs/issues/51)
+- [Testing Services in Angular](https://github.com/puddlejumper26/blogs/issues/15)
+- [Query( ) in Angular Testing](https://github.com/puddlejumper26/blogs/issues/11)
+- [Unit test a component which has type extends from other component's type](https://github.com/puddlejumper26/blogs/issues/3)
+
 <h2 id="browser">Browser  :pushpin:</h2>
 
 - [CSS parsing](https://github.com/puddlejumper26/blogs/issues/91)
@@ -291,32 +308,6 @@ Now here it goes!
 
  
  
- 
- 
- 
-<h2 id="angular-testing">Testing - Angular  :pushpin:</h2>
-
-*   [ActivatedRoute, serviceSpy, routerSpy in Angular Testing](https://github.com/puddlejumper26/blogs/issues/35)
-*   [Async in Angular Testing](https://github.com/puddlejumper26/blogs/issues/39)
-*   [calls.reset() in Angular Testing](https://github.com/puddlejumper26/blogs/issues/22)
-*   [CSS Selectors for Angular Testing](https://github.com/puddlejumper26/blogs/issues/4)
-*   [Date input testing in Angular (Notification)](https://github.com/puddlejumper26/blogs/issues/31)
-*   [How to test an @Input varaible inside Angular Testing](https://github.com/puddlejumper26/blogs/issues/108)
-*   [innerHtml,innerText,innerContent in Testing](https://github.com/puddlejumper26/blogs/issues/34)
-*   [Mock a path in spec file](https://github.com/puddlejumper26/blogs/issues/45)
-*   [Pipe testing in Angular](https://github.com/puddlejumper26/blogs/issues/58)
-*   [Test for a simple routerLink in Angular](https://github.com/puddlejumper26/blogs/issues/51)
-*   [Testing Services in Angular](https://github.com/puddlejumper26/blogs/issues/15)
-*   [Query( ) in Angular Testing](https://github.com/puddlejumper26/blogs/issues/11)
-*   [Unit test a component which has type extends from other component's type](https://github.com/puddlejumper26/blogs/issues/3)
-
-
-
-
-
-
-
-
 
 <h2 id="typescript">TypeScript  :pushpin:</h2>
 
