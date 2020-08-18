@@ -146,6 +146,7 @@ Now here it goes!
 - [innerHtml,innerText,innerContent in Testing](https://github.com/puddlejumper26/blogs/issues/34)
 - [Mock a path in spec file](https://github.com/puddlejumper26/blogs/issues/45)
 - [Pipe testing in Angular](https://github.com/puddlejumper26/blogs/issues/58)
+- [Simple Angular routerLink testing](https://github.com/puddlejumper26/blogs/issues/155)
 - [Test for a simple routerLink in Angular](https://github.com/puddlejumper26/blogs/issues/51)
 - [Testing Services in Angular](https://github.com/puddlejumper26/blogs/issues/15)
 - [Query( ) in Angular Testing](https://github.com/puddlejumper26/blogs/issues/11)
