@@ -32,7 +32,7 @@ Now here it goes!
          <tr>
              <th>--</th>
              <th><a href="https://github.com/puddlejumper26/todolist#-todolist-">To Do List (angular,json-server)</a></th>
-             <th><a href=""></a></th>
+             <th><a href="https://github.com/puddlejumper26/SportStore#sport-store-project">Sport Store(angular)</a></th>
              <th><a href=""></a></th>
              <th><a href=""></a></th>
          </tr>
@@ -77,8 +77,14 @@ Now here it goes!
             <th><a href="#book">Book</a></th>
             <th><a href="#methodology">Methodology</a></th>
             <th><a href="#vim">VIM</a></th>
-            <th><a href="#ide">IDE</a></th>
         </tr>
+        <tr>
+           <th>--</th>
+           <th><a href="#ide">IDE</a></th>
+           <th><a href=""></a></th>
+           <th><a href=""></a></th>
+           <th><a href=""></a></th>
+       </tr>
         <tr>
             <th>Web</th>
             <th><a href="#browser">Browser</a></th>
