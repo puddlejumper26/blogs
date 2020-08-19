@@ -77,6 +77,7 @@ Now here it goes!
             <th><a href="#book">Book</a></th>
             <th><a href="#methodology">Methodology</a></th>
             <th><a href="#vim">VIM</a></th>
+            <th><a href="#ide">IDE</a></th>
         </tr>
         <tr>
             <th>Web</th>
@@ -263,6 +264,10 @@ Now here it goes!
 - [Basics of HTTP](https://github.com/puddlejumper26/blogs/issues/90)
 - [URL](https://github.com/puddlejumper26/blogs/issues/96)
 
+
+<h2 id="ide">IDE  :pushpin:</h2>
+
+-[IntelliJ](https://github.com/puddlejumper26/blogs/issues/156)
 
 <h2 id='ios'>IOS  :pushpin:</h2>
 
