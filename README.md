@@ -286,6 +286,7 @@ Now here it goes!
 |          |                | <a href="">Rolling hash</a>        |<a href="">Minhash</a>    | <a href="">Quotient filter</a> |
 |          |                | <a href="">Ctrie  </a>             |                          |                                |
 |          |                |                     |           |                 |
+<!-- |          |                |                     |           |                 |
 |          |                |                     |           |                 |
 |          |                |                     |           |                 |
 |          |                |                     |           |                 |
@@ -298,8 +299,7 @@ Now here it goes!
 |          |                |                     |           |                 |
 |          |                |                     |           |                 |
 |          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
+|          |                |                     |           |                 | -->
 
 
 
@@ -329,7 +329,7 @@ Now here it goes!
 
 <h2 id="ide">IDE  :pushpin:</h2>
 
--[IntelliJ](https://github.com/puddlejumper26/blogs/issues/156)
+- [IntelliJ](https://github.com/puddlejumper26/blogs/issues/156)
 
 <h2 id='ios'>IOS  :pushpin:</h2>
 
