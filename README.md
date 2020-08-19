@@ -36,9 +36,23 @@ Now here it goes!
              <th><a href="https://puddlejumper26.github.io/js-showcases/projects/tmall_website/front_end/09-final-merge/homepage.html">Tmall Shopping (JS) :flags:</a></th>
              <th><a href=""></a></th>
          </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
          <tr>
             <th>Data Structure</th>
             <th><a href="#data-structure">Data Structure</a></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+       <tr>
+            <th></th>
+            <th></th>
             <th></th>
             <th></th>
             <th></th>
@@ -50,10 +64,24 @@ Now here it goes!
             <th></th>
             <th></th>
         </tr>
+       <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
         <tr>
             <th>Framework</th>
             <th><a href="#angular">Angular</a> </th>
             <th><a href="#angular-testing">Angular-Testing</a></th>
+            <th></th>
+            <th></th>
+        </tr>
+       <tr>
+            <th></th>
+            <th></th>
+            <th></th>
             <th></th>
             <th></th>
         </tr>
@@ -64,9 +92,23 @@ Now here it goes!
             <th><a href="#typescript">Typescript</a></th>
             <th></th>
         </tr>
+       <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
         <tr>
             <th>Libraries</th>
             <th><a href="#rxjs">Rxjs</a></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+       <tr>
+            <th></th>
+            <th></th>
             <th></th>
             <th></th>
             <th></th>
@@ -85,6 +127,13 @@ Now here it goes!
            <th><a href=""></a></th>
            <th><a href=""></a></th>
        </tr>
+       <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
         <tr>
             <th>Web</th>
             <th><a href="#browser">Browser</a></th>
