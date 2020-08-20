@@ -164,7 +164,7 @@ Now here it goes!
 - [Queue](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/basics/queue.html)
 - [Linked List 链表](https://puddlejumper26.github.io/js-showcases/showcases/algorithms/basics/linkedlist.html)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id='android'>Android :pushpin:</h2> 
 
@@ -198,7 +198,7 @@ Now here it goes!
 - [Web App Manifest](https://github.com/puddlejumper26/blogs/issues/63)
 - [What is Route Guard](https://github.com/puddlejumper26/blogs/issues/153)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id="angular-testing">Angular - Testing   :pushpin:</h2>
 
@@ -218,7 +218,7 @@ Now here it goes!
 - [Query( ) in Angular Testing](https://github.com/puddlejumper26/blogs/issues/11)
 - [Unit test a component which has type extends from other component's type](https://github.com/puddlejumper26/blogs/issues/3)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id="browser">Browser  :pushpin:</h2>
 
@@ -229,7 +229,7 @@ Now here it goes!
 - [Rendering engine and main flow](https://github.com/puddlejumper26/blogs/issues/86)
 - [The order of processing scripts and style sheets](https://github.com/puddlejumper26/blogs/issues/93)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id='book'> Book   :pushpin:</h2>
 
@@ -245,7 +245,7 @@ Now here it goes!
 <br><br>
 - [CSS Secret](https://puddlejumper26.github.io/js-showcases/showcases/css/css-secrets/css-secrets.html)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id='css-scss-less'>CSS SCSS LESS   :pushpin:</h2> 
 
@@ -258,7 +258,7 @@ Now here it goes!
 *   [HSV color](https://github.com/puddlejumper26/blogs/issues/54)
 *   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 
 <h2 id="data-structure"> Data Structure   :pushpin:</h2>
@@ -320,7 +320,7 @@ Now here it goes!
 [Quotient filter(empty)]()  |
 [Ctrie(empty)]()  |
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id="git">Git  :pushpin:</h2>
 
@@ -330,8 +330,7 @@ Now here it goes!
 - [How to change the commit message in GIT](https://github.com/puddlejumper26/blogs/issues/50)
 - [How to deploy Angular App to GitHub](https://github.com/puddlejumper26/blogs/issues/150)
 
-
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id="http">HTTP  :pushpin:</h2>
 
@@ -341,21 +340,20 @@ Now here it goes!
 - [Basics of HTTP](https://github.com/puddlejumper26/blogs/issues/90)
 - [URL](https://github.com/puddlejumper26/blogs/issues/96)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id="ide">IDE  :pushpin:</h2>
 
 - [IntelliJ](https://github.com/puddlejumper26/blogs/issues/156)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id='ios'>IOS  :pushpin:</h2>
 
 - [apple-touch-icon](https://github.com/puddlejumper26/blogs/issues/66)
 - [mask-icon on apple ios](https://github.com/puddlejumper26/blogs/issues/65)
 
-
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 
 <h2 id='javascript'>JAVASCRIPT  :pushpin:</h2>
@@ -371,7 +369,7 @@ Now here it goes!
 *   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
   
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 
 
@@ -379,20 +377,20 @@ Now here it goes!
 
 - [6 Highlighters in Learning](https://github.com/puddlejumper26/blogs/issues/149)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id="regexp">REGEXP  :pushpin:</h2>
 
 - [JS RegExp PDF](https://puddlejumper26.github.io/js-showcases/resources/books/02-JS/JavaScriptRegExp.pdf)
 - [RegExp online Visualizer (better)](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id="rxjs">RXJS  :pushpin:</h2>
 
 *   [Notes of Rxjs Library for Angular](https://github.com/puddlejumper26/blogs/issues/12)
 
- <h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
  
 
 <h2 id="typescript">TypeScript  :pushpin:</h2>
@@ -420,17 +418,17 @@ Now here it goes!
 *   [09 - Decorator](https://github.com/puddlejumper26/blogs/issues/43)
 
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 
 <h2 id="vim">VIM :pushpin:</h2>
 
 - [Why VIM](https://github.com/puddlejumper26/blogs/issues/81)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id="websocket">Websocket</h2>
 
 - [Websocket](https://github.com/puddlejumper26/blogs/issues/104)
 
-<h4 align="right"><a href="#table">Back to Table</a></h4>
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
