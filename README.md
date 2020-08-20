@@ -267,7 +267,7 @@ Now here it goes!
 - [Composite types](https://github.com/puddlejumper26/blogs/issues/107)
 -- [Array](https://github.com/puddlejumper26/blogs/issues/110)  |
 [Record](https://github.com/puddlejumper26/blogs/issues/125)  |
-[Union](https://github.com/puddlejumper26/blogs/issues/126)  
+[Union](https://github.com/puddlejumper26/blogs/issues/126)  |
 - [Abstract Data types](https://github.com/puddlejumper26/blogs/issues/111)
 -- [Container](https://github.com/puddlejumper26/blogs/issues/112)  |
 [List](https://github.com/puddlejumper26/blogs/issues/113)  |
@@ -286,7 +286,7 @@ Now here it goes!
 [Bit Array](https://github.com/puddlejumper26/blogs/issues/120)  |
 [Bit Field](https://github.com/puddlejumper26/blogs/issues/121)  |
 [Bit Board](https://github.com/puddlejumper26/blogs/issues/122)  |
-[Bit Map(empty)]()  
+[Bit Map(empty)]()  |
 - [Lists(empty)]()
 -- [Doubly Linked List](https://github.com/puddlejumper26/blogs/issues/123)  |
 [Array List](https://github.com/puddlejumper26/blogs/issues/124)  |
