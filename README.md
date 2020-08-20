@@ -255,55 +255,62 @@ Now here it goes!
 
 <h2 id="data-structure"> Data Structure   :pushpin:</h2>
 
-|Main| Sub| Name| Name | Name |
-|-|-|-|-|-|
-|**`Data Types`**|          |                                    |                          |                                |
-|          |<a href="https://github.com/puddlejumper26/blogs/issues/80">Primitive types</a> |                     |                          |                                |
-|          |                |<a href="">Boolean </a>             | <a href="https://github.com/puddlejumper26/blogs/issues/101">Character</a> | <a href="https://github.com/puddlejumper26/blogs/issues/83">Floating Point</a>  |
-|          |                |<a href="https://github.com/puddlejumper26/blogs/issues/102">Fixed point</a>  | <a href="https://github.com/puddlejumper26/blogs/issues/103">Integer</a>   | <a href="https://github.com/puddlejumper26/blogs/issues/105">Reference </a>      |
-|          |                | <a href="https://github.com/puddlejumper26/blogs/issues/106">Enumerated type</a>     |                          |                                |
-|          |                |                                    |                          |                                |
-|          |<a href="https://github.com/puddlejumper26/blogs/issues/107">Composite types |                         |                          |                                |
-|          |                | <a href="https://github.com/puddlejumper26/blogs/issues/110">Array </a>              | <a href="https://github.com/puddlejumper26/blogs/issues/125">Record</a>    | <a href="https://github.com/puddlejumper26/blogs/issues/126">Union</a>           |
-|          |                |                                    |                          |                                |
-|          |<a href="https://github.com/puddlejumper26/blogs/issues/111">Abstract Data types</a> |                 |                          |                                | 
-|          |                | <a href="https://github.com/puddlejumper26/blogs/issues/112">Container</a>  | <a href="https://github.com/puddlejumper26/blogs/issues/113">List</a> |  <a href="https://github.com/puddlejumper26/blogs/issues/114">Tuple</a>          |
-|          |                | <a href="https://github.com/puddlejumper26/blogs/issues/116">Multimap</a>            | <a href="">Map </a>      | <a href="https://github.com/puddlejumper26/blogs/issues/117">Set</a>             |
-|          |                | <a href="https://github.com/puddlejumper26/blogs/issues/118">Multiset(bag)</a>       | <a href="">Stack</a>     | <a href="https://github.com/puddlejumper26/blogs/issues/119">Queue </a>          |
-|          |                |                                    |                          |                                |
-|**`Linear data structures`**|                                   |                          |                                |
-|          | Arrays         |                                    |                          |                                |
-|          |                | <a href="">Array</a>               |<a href="https://github.com/puddlejumper26/blogs/issues/120">Bit Array</a>  | <a href="https://github.com/puddlejumper26/blogs/issues/121">Bit Field</a>       |
-|          |                |<a href="https://github.com/puddlejumper26/blogs/issues/122">Bitboard </a>            |<a href="">Bitmap</a>     |                                |
-|          | Lists          |                                    |                          |                                |
-|          |                |<a href="https://github.com/puddlejumper26/blogs/issues/123">Doubly Linked list</a>   |<a href="https://github.com/puddlejumper26/blogs/issues/124">Array list</a> | <a href="">Linked List</a>     |
-|          |                |                                    |                          |                                |
-|**`Hash-based structures`**|    |                               |                          |                                |
-|          |                | <a href="">Bloom filter</a>        |<a href="">Count-Min-sketch</a>  | <a href="">Distributed hash table</a>   |
-|          |                | <a href="">Double hashing </a>     |<a href="">Dynamic perfect hash table</a>  | <a href="">Hash array</a>   mapped trie|
-|          |                | <a href="">Hash list</a>           |<a href="">Hash table</a> | <a href="">Hash tree</a>       |
-|          |                | <a href="">Hash trie </a>          |<a href="">Koorde</a>     | <a href="">Prefix hash tree</a>|
-|          |                | <a href="">Rolling hash</a>        |<a href="">Minhash</a>    | <a href="">Quotient filter</a> |
-|          |                | <a href="">Ctrie  </a>             |                          |                                |
-|          |                |                     |           |                 |
-<!-- |          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 |
-|          |                |                     |           |                 | -->
+### Data Types
+- [Primitive types](https://github.com/puddlejumper26/blogs/issues/80)
+-- [Boolean(empty) ]() |
+[Character](https://github.com/puddlejumper26/blogs/issues/101) |
+[Floating Point](https://github.com/puddlejumper26/blogs/issues/83) |
+[Fixed point](https://github.com/puddlejumper26/blogs/issues/102) |
+[Integer](https://github.com/puddlejumper26/blogs/issues/103)  |
+[Reference](https://github.com/puddlejumper26/blogs/issues/105)  |
+[Enumerated type](https://github.com/puddlejumper26/blogs/issues/106)
+- [Composite types](https://github.com/puddlejumper26/blogs/issues/107)
+-- [Array](https://github.com/puddlejumper26/blogs/issues/110)  |
+[Record](https://github.com/puddlejumper26/blogs/issues/125)  |
+[Union](https://github.com/puddlejumper26/blogs/issues/126)  
+- [Abstract Data types](https://github.com/puddlejumper26/blogs/issues/111)
+-- [Container](https://github.com/puddlejumper26/blogs/issues/112)  |
+[List](https://github.com/puddlejumper26/blogs/issues/113)  |
+[Tuple](https://github.com/puddlejumper26/blogs/issues/114)  |
+[Multimap](https://github.com/puddlejumper26/blogs/issues/116)  |
+[Map(empty)]()  |
+[Set](https://github.com/puddlejumper26/blogs/issues/117)  |
+[MultiSet](https://github.com/puddlejumper26/blogs/issues/118)  |
+[Stack(empty)]()  |
+[Queue](https://github.com/puddlejumper26/blogs/issues/119)  |
 
+### Linear Data Structure
 
+- [Arrays]()
+-- [Array]()  |
+[Bit Array](https://github.com/puddlejumper26/blogs/issues/120)  |
+[Bit Field](https://github.com/puddlejumper26/blogs/issues/121)  |
+[Bit Board](https://github.com/puddlejumper26/blogs/issues/122)  |
+[Bit Map(empty)]()  
+- [Lists(empty)]()
+-- [Doubly Linked List](https://github.com/puddlejumper26/blogs/issues/123)  |
+[Array List](https://github.com/puddlejumper26/blogs/issues/124)  |
+[Linked List(empty)]()  |
 
+### Hash-based structures
 
+- [Bloom filter(empty)]()  |
+[Count-Min-sketch(empty)]()  |
+[Distributed hash table]()  |
+[Double hashing ]()  |
+[Dynamic perfect hash table]()  |
+[Hash array(empty)]()  |
+[Mapped trie(empty)]()  |
+[Hash list(empty)]()  |
+[Hash table(empty)]()  |
+[Hash tree(empty)]()  |
+[Hash trie(empty)]()  |
+[Koorde(empty)]()  |
+[Prefix hash tree(empty)]()  |
+[Rolling hash(empty)]()  |
+[Minhash(empty)]()  |
+[Quotient filter(empty)]()  |
+[Ctrie(empty)]()  |
 
 
 
