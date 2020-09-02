@@ -1,7 +1,7 @@
 <h1 align="center">Puddlejumper26's Blog </h1>
 
-<span style="background-color: #FFFF00">Since I am a Noob</span>, and have read quite a lot of blogs and articles about why and how to start a tech blog, 
-I tried to document everything I have done, but found out it is really difficult. e.g. I finished study of Data Structure and Algorithms in JavaScript
+Since I am a Noob, and have read quite a lot of blogs and articles about why and how to start a tech blog, 
+I tried to document everything I have done, but found out it is really difficult. e.g. I finished study of Data Structure and Algorithms in JavaScript([Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:), but have no idea how to put this in to notes. 
 
 Now here it goes!
 
