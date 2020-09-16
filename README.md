@@ -346,7 +346,8 @@ Now here it goes!
 
 <h2 id="ide">IDE  :pushpin:</h2>
 
-- [IntelliJ](https://github.com/puddlejumper26/blogs/issues/156)
+- [IntelliJ - How to add button inside the navigation toolbar](https://github.com/puddlejumper26/blogs/issues/156)
+- [IntelliJ Shortcuts](https://github.com/puddlejumper26/blogs/issues/159)
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
