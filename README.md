@@ -197,6 +197,7 @@ Now here it goes!
 - [The advantage of Angular and MVC](https://github.com/puddlejumper26/blogs/issues/49) 
 - [Theming in Angular Material (Color Palatte)](https://github.com/puddlejumper26/blogs/issues/47)
 - [Services in Angular](https://github.com/puddlejumper26/blogs/issues/13)
+- [useClass, useValue, useFactory, useExisting and Testing](https://github.com/puddlejumper26/blogs/issues/160)
 - [Web App Manifest](https://github.com/puddlejumper26/blogs/issues/63)
 - [What is Route Guard](https://github.com/puddlejumper26/blogs/issues/153)
 
