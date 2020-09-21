@@ -32,7 +32,7 @@ Now here it goes!
         <mark>
         <tr>
          <th>:round_pushpin: APP :round_pushpin:</th>
-            <td><a href="https://github.com/puddlejumper26/xiangs/blob/master/README.md#-xiangs-webstie-">Personal Website (angular) :flags:</a></td>
+            <td><a href="https://github.com/puddlejumper26/xiangs/blob/master/README.md#-xiangs-webstie-">...</a></td>
             <td><a href="https://github.com/puddlejumper26/json-server-test#-json-server-test">json-server(angular,json-server) :flags:</a></td>
             <td><a href="https://puddlejumper26.github.io/xiangblog/">Blog (hexo)</a></td>
             <td><a href="https://github.com/puddlejumper26/hexo-theme-ashes#hexo-theme-ashes">Hexo Theme(hexo) :flags: </a></td>
@@ -41,8 +41,8 @@ Now here it goes!
         <tr>
             <th>--</th>
             <td><a href="https://github.com/puddlejumper26/todolist#-todolist-">To Do List (angular,json-server)</a></td>
-            <td><a href="https://github.com/puddlejumper26/SportStore#sport-store-project">Sport Store(angular) :flags:</a></td>
-            <td><a href="https://github.com/puddlejumper26/blogs/issues/157">Tmall Shopping (JS) :flags:</a></td>
+            <td><a href="https://github.com/puddlejumper26/SportStore#sport-store-project">Sport Store(Angular, HTML) :flags:</a></td>
+            <td><a href="https://github.com/puddlejumper26/blogs/issues/157">Tmall Shopping (JS, HTML, CSS) :flags:</a></td>
             <td><a href=""></a></td>
         </tr>
         <tr>
