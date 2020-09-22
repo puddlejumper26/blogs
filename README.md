@@ -188,6 +188,7 @@ Now here it goes!
 - [How to find third parties applications inside project](https://github.com/puddlejumper26/blogs/issues/69)
 - [How to use Fonts locally in Angular](https://github.com/puddlejumper26/blogs/issues/64)
 - [Interceptor in Angular](https://github.com/puddlejumper26/blogs/issues/95)
+- [MatPaginatorModule Application Angular Material Pagination](https://github.com/puddlejumper26/blogs/issues/143)
 - [Providers in Angular](https://github.com/puddlejumper26/blogs/issues/14)
 - [Public, Private, Protected, Static and Abstract in Angular Component](https://github.com/puddlejumper26/blogs/issues/7)
 - [Resolve in Angular Routing](https://github.com/puddlejumper26/blogs/issues/16)
