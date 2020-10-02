@@ -132,7 +132,7 @@ Now here it goes!
         <tr>
            <th>--</th>
            <td><a href="#ide">IDE</a></td>
-            <td></td>
+            <td><a href="#webpack">Webpack</a></td>
             <td></td>
             <td></td>
        </tr>
@@ -435,5 +435,11 @@ Now here it goes!
 <h2 id="websocket">Websocket</h2>
 
 - [Websocket](https://github.com/puddlejumper26/blogs/issues/104)
+
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
+
+
+<h2 id="webpack">Webpack</h2>
+
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
