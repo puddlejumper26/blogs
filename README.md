@@ -11,7 +11,7 @@ Now here it goes!
 
 
 <p align="center" id="table">
-:point_right: :one: :three: :eight: :point_left:
+:point_right: :one: :four: :four: :point_left:
  </p>
 
    <table> 
