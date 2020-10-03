@@ -189,7 +189,7 @@ Now here it goes!
 - [Interceptor in Angular](https://github.com/puddlejumper26/blogs/issues/95)
 - [MatPaginatorModule Application Angular Material Pagination](https://github.com/puddlejumper26/blogs/issues/161)
 - [Observables in Angular - Creating and subscribing ](https://github.com/puddlejumper26/blogs/issues/62)
-- [Observable in Angular - When to use it](https://github.com/puddlejumper26/blogs/issues/)
+- [Observable in Angular - When to use it](https://github.com/puddlejumper26/blogs/issues/162)
 - [Providers in Angular](https://github.com/puddlejumper26/blogs/issues/14)
 - [Public, Private, Protected, Static and Abstract in Angular Component](https://github.com/puddlejumper26/blogs/issues/7)
 - [Resolve in Angular Routing](https://github.com/puddlejumper26/blogs/issues/162)
