@@ -11,7 +11,7 @@ Now here it goes!
 
 
 <p align="center" id="table">
-:point_right: :one: :four: :four: :point_left:
+:point_right: :one: :four: :six: :point_left:
  </p>
 
    <table> 
@@ -227,9 +227,11 @@ Now here it goes!
 
 <h2 id="browser">Browser  :pushpin:</h2>
 
+- [Cooki-based Authentication](https://github.com/puddlejumper26/blogs/issues/164)
 - [CSS parsing](https://github.com/puddlejumper26/blogs/issues/91)
 - [How browsers work](https://github.com/puddlejumper26/blogs/issues/85)
 - [HTML Parser](https://github.com/puddlejumper26/blogs/issues/88)
+- [JSON Web Token JWT](https://github.com/puddlejumper26/blogs/issues/163)
 - [Parsing general](https://github.com/puddlejumper26/blogs/issues/87)
 - [Rendering engine and main flow](https://github.com/puddlejumper26/blogs/issues/86)
 - [The order of processing scripts and style sheets](https://github.com/puddlejumper26/blogs/issues/93)
