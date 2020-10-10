@@ -16,7 +16,7 @@ Now here it goes!
 
    <table> 
         <tr>
-            <th>Algorithms</th>
+            <th>Algorithms:small_blue_diamond:</th>
             <td><a href="#algorithms">Algorithms</a></td>
             <td><a href="#regexp">REGEXP</a></td>
             <td></td>
@@ -53,7 +53,7 @@ Now here it goes!
             <td></td>
         </tr>
          <tr>
-            <th>Data Structure</th>
+            <th>Data Structure:small_blue_diamond:</th>
             <td><a href="#data-structure">Data Structure</a></td>
             <td></td>
             <td></td>
@@ -67,7 +67,7 @@ Now here it goes!
             <td></td>
         </tr>
         <tr>
-            <th> Devices</th>
+            <th> Devices:small_blue_diamond:</th>
             <td> <a href="#android">Android</a></td>
             <td><a href="#ios">IOS</a> </td>
             <td></td>
@@ -81,7 +81,7 @@ Now here it goes!
             <td></td>
         </tr>
         <tr>
-            <th>Framework</th>
+            <th>Framework:small_blue_diamond:</th>
             <td><a href="#angular">Angular</a> </td>
             <td><a href="#angular-testing">Angular-Testing</a></td>
             <td></td>
@@ -95,7 +95,7 @@ Now here it goes!
             <td></td>
         </tr>
         <tr>
-            <th>Languages</th>
+            <th>Languages:small_blue_diamond:</th>
             <td><a href="#css-scss-less">Css Scss Less</a></td>
             <td><a href="#javascript">Javascript</a></td>
             <td><a href="#typescript">Typescript</a></td>
@@ -109,7 +109,7 @@ Now here it goes!
             <td></td>
         </tr>
         <tr>
-            <th>Libraries</th>
+            <th>Libraries:small_blue_diamond:</th>
             <td><a href="#rxjs">Rxjs</a></td>
             <td></td>
             <td></td>
@@ -123,7 +123,7 @@ Now here it goes!
             <td></td>
         </tr>
          <tr>
-            <th>Tools</th>
+            <th>Tools:small_blue_diamond:</th>
             <td><a href="#git">Git</a></td>
             <td><a href="#book">Book</a></td>
             <td><a href="#methodology">Methodology</a></td>
@@ -144,7 +144,7 @@ Now here it goes!
             <td></td>
         </tr>
         <tr>
-            <th>Web</th>
+            <th>Web:small_blue_diamond:</th>
             <td><a href="#browser">Browser</a></td>
             <td><a href="#http">HTTP</a></td>
             <td><a href="#websocket">Websocket</a></td>
