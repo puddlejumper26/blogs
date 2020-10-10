@@ -53,7 +53,7 @@ Now here it goes!
             <td></td>
         </tr>
          <tr>
-            <th>:small_blue_diamond:Data Structure:small_blue_diamond:</th>
+            <th>:small_blue_diamond:Data-Structure:small_blue_diamond:</th>
             <td><a href="#data-structure">Data Structure</a></td>
             <td></td>
             <td></td>
