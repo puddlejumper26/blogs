@@ -256,14 +256,16 @@ Now here it goes!
 
 <h2 id='css-scss-less'>CSS SCSS LESS   :pushpin:</h2> 
 
-*   [49 CSS notes (Translation)](https://github.com/puddlejumper26/blogs/issues/33)
-*   [Add a Scrollbar in CSS](https://github.com/puddlejumper26/blogs/issues/28)
-*   [Absolute and Relative](https://github.com/puddlejumper26/blogs/issues/109)
-*   [Color Wheel](https://github.com/puddlejumper26/blogs/issues/53)
-*   [CSS functions & Less Functions](https://github.com/puddlejumper26/blogs/issues/55)
-*   [Hover to change the style with CSS](https://github.com/puddlejumper26/blogs/issues/32)
-*   [HSV color](https://github.com/puddlejumper26/blogs/issues/54)
-*   [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
+- [49 CSS notes (Translation)](https://github.com/puddlejumper26/blogs/issues/33)
+- [Adapt inner Uploaded Media to the Outside Container](https://github.com/puddlejumper26/blogs/issues/165)
+- [Add a Scrollbar in CSS](https://github.com/puddlejumper26/blogs/issues/28)
+- [Absolute and Relative](https://github.com/puddlejumper26/blogs/issues/109)
+- [Color Wheel](https://github.com/puddlejumper26/blogs/issues/53)
+- [CSS functions & Less Functions](https://github.com/puddlejumper26/blogs/issues/55)
+- [Hover to change the style with CSS](https://github.com/puddlejumper26/blogs/issues/32)
+- [HSV color](https://github.com/puddlejumper26/blogs/issues/54)
+- [rem,em,px,vw,vh,vm in CSS](https://github.com/puddlejumper26/blogs/issues/26)
+
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
