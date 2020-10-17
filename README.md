@@ -43,7 +43,7 @@ Now here it goes!
             <td><a href="https://github.com/puddlejumper26/todolist#-todolist-">To Do List (angular,json-server)</a></td>
             <td><a href="https://github.com/puddlejumper26/SportStore#sport-store-project">Sport Store(Angular, HTML) :flags:</a></td>
             <td><a href="https://github.com/puddlejumper26/blogs/issues/157">Tmall Shopping (JS, HTML, CSS) :flags:</a></td>
-            <td><a href=""></a></td>
+            <td><a href="https://github.com/puddlejumper26/dashboard-demo#dashboard-panel--demo">Dashboard Panel- Demo (Angular, Angular Material, Highcharts)</a></td>
         </tr>
         <tr>
            <th></th>
