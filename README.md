@@ -35,7 +35,7 @@ Now here it goes!
             <td><a href="https://puddlejumper26.github.io/home/">Personal Website :flags:</a></td>
             <td><a href="https://github.com/puddlejumper26/SportStore#sport-store-project">Sport Store(Angular, HTML) :flags:</a></td>
             <td><a href="https://github.com/puddlejumper26/blogs/issues/157">Tmall Shopping (JS, HTML, CSS) :flags:</a></td>
-            <td><a href="https://github.com/puddlejumper26/dashboard-demo#dashboard-panel--demo">Dashboard Panel- Demo (Angular, Angular Material, Highcharts)</a></td>
+            <td><a href="https://github.com/puddlejumper26/dashboard-demo#dashboard-panel--demo">Dashboard Panel (Angular, Angular Material, Highcharts)</a></td>
         </tr>
          </mark>
         <tr>
