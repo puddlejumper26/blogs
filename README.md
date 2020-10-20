@@ -40,14 +40,14 @@ Now here it goes!
          </mark>
         <tr>
             <th>--</th>
-            <td><a href="https://github.com/puddlejumper26/todolist#-todolist-">To Do List (angular,json-server)</a></td>
+         <td><a href='https://github.com/puddlejumper26/co-chart#covid-19-tracker'>Covid-19 Real Time Tracker</a></td>
             <td><a href="https://github.com/puddlejumper26/json-server-test#-json-server-test">json-server(angular,json-server) </a></td>
             <td><a href="https://puddlejumper26.github.io/xiangblog/">Blog (hexo)</a></td>
             <td><a href="https://github.com/puddlejumper26/hexo-theme-ashes#hexo-theme-ashes">Hexo Theme(hexo)  </a></td>
         </tr>
         <tr>
-           <th></th>
-            <td></td>
+           <th>--</th>
+            <td><a href="https://github.com/puddlejumper26/todolist#-todolist-">To Do List (angular,json-server)</a></td>
             <td></td>
             <td></td>
             <td></td>
