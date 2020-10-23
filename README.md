@@ -248,16 +248,21 @@ Now here it goes!
 
 <h2 id='book'> Book   :pushpin:</h2>
 
-- [Clean Code]
-- [Code Complete 2nd Edition](https://github.com/puddlejumper26/blogs/issues/98)
-<br><br>
+<br><br> Data Structure and Algorithms
+
 - [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71) :books:
 - [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:
 - [Data Structure (Book Notes 大话数据结构)](https://github.com/puddlejumper26/blogs/issues/70) :books:
-<br><br> 整体方法论
+
+<br><br> 整体方法论 Methodology
+
+- [Clean Code]
+- [Code Complete 2nd Edition](https://github.com/puddlejumper26/blogs/issues/98)
 - [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72) :books:
 - [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
-<br><br>
+
+<br><br> 语言和框架 Languages and Frameworks
+
 - [CSS Secret](https://puddlejumper26.github.io/js-showcases/showcases/css/css-secrets/css-secrets.html)
 - [DOM Scripting Web Design with JavaScript and the DOM 2nd Edition](https://github.com/puddlejumper26/blogs/issues/168)
 
