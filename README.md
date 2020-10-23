@@ -246,9 +246,9 @@ Now here it goes!
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
-<h2 id='book'> Book   :pushpin:</h2>
+<h2 id='book'> Book   :pushpin: :books:</h2>
 
-<br><br> Data Structure and Algorithms
+<br> Data Structure and Algorithms
 
 - [Grokking Algorithms (Book Notes)](https://github.com/puddlejumper26/blogs/issues/71) :books:
 - [Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:
@@ -257,15 +257,15 @@ Now here it goes!
 <br><br> 整体方法论 Methodology
 
 - [Clean Code]
-- [Code Complete 2nd Edition](https://github.com/puddlejumper26/blogs/issues/98)
+- [Code Complete 2nd Edition](https://github.com/puddlejumper26/blogs/issues/98) :books:
 - [Learn More Study Less 如何高效学习](https://github.com/puddlejumper26/blogs/issues/72) :books:
-- [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
+- [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) :books: 
 
 <br><br> 语言和框架 Languages and Frameworks
 
-- [Angular Pro - Angular 7 (3rd)](https://github.com/puddlejumper26/blogs/issues/169)
-- [CSS Secret](https://puddlejumper26.github.io/js-showcases/showcases/css/css-secrets/css-secrets.html)
-- [DOM Scripting Web Design with JavaScript and the DOM 2nd Edition](https://github.com/puddlejumper26/blogs/issues/168)
+- [Angular Pro - Angular 7 (3rd)](https://github.com/puddlejumper26/blogs/issues/169) :books:
+- [CSS Secret](https://puddlejumper26.github.io/js-showcases/showcases/css/css-secrets/css-secrets.html) :books:
+- [DOM Scripting Web Design with JavaScript and the DOM 2nd Edition](https://github.com/puddlejumper26/blogs/issues/168) :books:
 
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
