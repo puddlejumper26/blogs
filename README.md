@@ -448,6 +448,7 @@ Now here it goes!
 
 <h2 id="vim">VIM :pushpin:</h2>
 
+- [VIM Settings](https://github.com/puddlejumper26/blogs/issues/167)
 - [Why VIM](https://github.com/puddlejumper26/blogs/issues/81)
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
