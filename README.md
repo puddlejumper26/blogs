@@ -259,6 +259,8 @@ Now here it goes!
 - [How to explore LeetCode](https://github.com/puddlejumper26/blogs/issues/73) 
 <br><br>
 - [CSS Secret](https://puddlejumper26.github.io/js-showcases/showcases/css/css-secrets/css-secrets.html)
+- [DOM Scripting Web Design with JavaScript and the DOM 2nd Edition](https://github.com/puddlejumper26/blogs/issues/168)
+
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
