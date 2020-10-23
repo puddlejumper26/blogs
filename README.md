@@ -137,7 +137,7 @@ Now here it goes!
             <td><a href="#vim">VIM</a></td>
         </tr>
         <tr>
-           <th>--</th>
+           <th>:small_blue_diamond:Tools:small_blue_diamond:</th>
            <td><a href="#ide">IDE</a></td>
             <td><a href="#webpack">Webpack</a></td>
             <td><a href="#openapi">Open API Generator</a></td>
