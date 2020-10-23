@@ -263,7 +263,7 @@ Now here it goes!
 
 <br><br> 语言和框架 Languages and Frameworks
 
-- [Angular Pro - Angular 7](https://github.com/puddlejumper26/blogs/issues/169)
+- [Angular Pro - Angular 7 (3rd)](https://github.com/puddlejumper26/blogs/issues/169)
 - [CSS Secret](https://puddlejumper26.github.io/js-showcases/showcases/css/css-secrets/css-secrets.html)
 - [DOM Scripting Web Design with JavaScript and the DOM 2nd Edition](https://github.com/puddlejumper26/blogs/issues/168)
 
