@@ -11,7 +11,7 @@ Now here it goes!
 
 
 <p align="center" id="table">
-:point_right: :one: :four: :six: :point_left:
+:point_right: :one: :five: :two: :point_left:
  </p>
 
    <table> 
@@ -197,6 +197,7 @@ Now here it goes!
 - [MatPaginatorModule Application Angular Material Pagination](https://github.com/puddlejumper26/blogs/issues/161)
 - [Observables in Angular - Creating and subscribing ](https://github.com/puddlejumper26/blogs/issues/62)
 - [Observable in Angular - When to use it](https://github.com/puddlejumper26/blogs/issues/162)
+- [Obtain value inside input of Angular](https://github.com/puddlejumper26/blogs/issues/170)
 - [Pipe for displaying '-' when no data received](https://github.com/puddlejumper26/blogs/issues/166)
 - [Providers in Angular](https://github.com/puddlejumper26/blogs/issues/14)
 - [Public, Private, Protected, Static and Abstract in Angular Component](https://github.com/puddlejumper26/blogs/issues/7)
