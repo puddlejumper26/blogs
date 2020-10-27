@@ -416,7 +416,9 @@ Now here it goes!
 <h2 id="regexp">REGEXP  :pushpin:</h2>
 
 - [JS RegExp PDF](https://puddlejumper26.github.io/js-showcases/resources/books/02-JS/JavaScriptRegExp.pdf)
+- [Normal REGEXP rules](https://github.com/puddlejumper26/blogs/issues/171)
 - [RegExp online Visualizer (better)](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
+
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
