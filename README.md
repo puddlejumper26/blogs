@@ -40,7 +40,7 @@ Now here it goes!
          </mark>
         <tr>
             <th>:round_pushpin: APP :round_pushpin:</th>
-            <td><a href='https://github.com/puddlejumper26/co-chart#covid-19-tracker'>Covid-19 Real Time Tracker(Angular) </a></td>
+            <td><a href="https://github.com/puddlejumper26/json-server-test#-json-server-test">json-server(angular,json-server) </a></td>
             <td><a href="https://github.com/puddlejumper26/ng-wyy#ng---wyy">NG-WYY(Angular) :hotsprings:</a></td>
             <td><a href="https://puddlejumper26.github.io/xiangblog/">Blog (hexo)</a></td>
             <td><a href="https://github.com/puddlejumper26/hexo-theme-ashes#hexo-theme-ashes">Hexo Theme(hexo)  </a></td>
@@ -48,7 +48,7 @@ Now here it goes!
         <tr>
            <th>:round_pushpin: APP :round_pushpin:</th>
             <td><a href="https://github.com/puddlejumper26/todolist#-todolist-">To Do List (angular,json-server)</a></td>
-            <td><a href="https://github.com/puddlejumper26/json-server-test#-json-server-test">json-server(angular,json-server) </a></td>
+            <td></td>
             <td></td>
             <td></td>
         </tr>
