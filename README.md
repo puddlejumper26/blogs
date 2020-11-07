@@ -89,8 +89,8 @@ Now here it goes!
         </tr>
         <tr>
             <th>:small_blue_diamond:Framework:small_blue_diamond:</th>
-            <td><a href="#angular">Angular</a> </td>
-            <td><a href="#angular-testing">Angular-Testing</a></td>
+            <td><a href="#angular">Angular</a> | <a href="#angular-testing">Angular-Testing</a></td>
+            <td><a href="#nodejs">Node.js</a></td>
             <td></td>
             <td></td>
         </tr>
