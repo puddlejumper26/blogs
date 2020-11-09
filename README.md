@@ -35,13 +35,13 @@ Now here it goes!
             <td><a href="https://puddlejumper26.github.io/home/">Personal Website </a></td>
             <td><a href="https://github.com/puddlejumper26/SportStore#sport-store-project">Sport Store(Angular) </a></td>
             <td><a href="https://github.com/puddlejumper26/blogs/issues/157">Tmall Shopping (JS) </a></td>
-            <td><a href="https://github.com/puddlejumper26/dashboard-demo#dashboard-panel--demo">Dashboard Panel (Angular) :flags:</a></td>
+            <td><a href="https://github.com/puddlejumper26/dashboard-demo#dashboard-panel--demo">Dashboard Panel (Angular) </a></td>
         </tr>
          </mark>
         <tr>
             <th>:round_pushpin: APP :round_pushpin:</th>
             <td><a href="https://github.com/puddlejumper26/json-server-test#-json-server-test">json-server(angular,json-server) </a></td>
-            <td><a href="https://github.com/puddlejumper26/ng-wyy#ng---wyy">NG-WYY(Angular) :hotsprings:</a></td>
+            <td><a href="https://github.com/puddlejumper26/ng-wyy#ng---wyy">NG-WYY(Angular) :hotsprings: :hotsprings: :hotsprings:</a></td>
             <td><a href="https://puddlejumper26.github.io/xiangblog/">Blog (hexo)</a></td>
             <td><a href="https://github.com/puddlejumper26/hexo-theme-ashes#hexo-theme-ashes">Hexo Theme(hexo)  </a></td>
         </tr>
