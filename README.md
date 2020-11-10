@@ -505,5 +505,6 @@ Now here it goes!
 
 <h2 id="webpack">Webpack</h2>
 
+- [Online Course](https://www.bilibili.com/video/BV1a741197Hn?from=search&seid=2596057647755863969)
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
