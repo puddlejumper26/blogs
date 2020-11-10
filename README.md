@@ -1,14 +1,39 @@
 <h1 align="center">Puddlejumper26's Blog </h1>
 
+## Personal Tech Stack :gear: ( More Icons are coming slowly 🖖 )
+
+<table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/40550117/98718197-6878af80-238e-11eb-9067-c1b92bbd51ed.png" width="40" height="40" /> </td>
+      <td><img src="https://user-images.githubusercontent.com/40550117/98718381-aa095a80-238e-11eb-8656-fb913a4a7474.png" width="30" height="30" /></td>
+      <td><img src="https://user-images.githubusercontent.com/40550117/98718498-cf966400-238e-11eb-92bc-a0e4b7a6245e.png" width="30" height="30" /></td>
+      <td><img src="https://user-images.githubusercontent.com/40550117/98719885-9d860180-2390-11eb-93b6-f6bd2d673f26.png" width="30" height="30" /></td>
+      <td><img src="https://user-images.githubusercontent.com/40550117/98720245-bf7f8400-2390-11eb-9b0d-c06fc9be8421.png" width="30" height="30" /></td>
+      <td><img src="https://user-images.githubusercontent.com/40550117/98719591-3f591e80-2390-11eb-9f8f-f68c29b9aa95.png" width="30" height="30"/></td>
+      <td><img src="https://user-images.githubusercontent.com/40550117/98719756-6e6f9000-2390-11eb-927a-34ea19dc6061.png" width="30" height="30"/></td>
+<!--            <td><img src="" width="30" height="30"/></td>
+           <td><img src="" width="30" height="30"/></td>
+           <td><img src="" width="30" height="30"/></td>
+           <td><img src="" width="30" height="30"/></td>
+           <td><img src="" width="30" height="30"/></td>
+           <td><img src="" width="30" height="30"/></td>
+           <td><img src="" width="30" height="30"/></td> -->
+    </tr>
+</table>
+
+
+
+
+
+## Reason to start this blog :palm_tree:
+
+1. Better in Tech expressions
+2. Better in Thoughts and Concepts
+
 Since I am a Noob, and have read quite a lot of blogs and articles about why and how to start a tech blog, 
 I tried to document everything I have done, but found out it is really difficult. e.g. I finished study of Data Structure and Algorithms in JavaScript([Learning JS Data Structure and Algorithms](https://github.com/puddlejumper26/blogs/issues/74) :books:), but have no idea how to put this in to notes. 
 
 Now here it goes!
-
-### Reason to start this blog
-1. Better in Tech expressions
-2. Better in Thoughts and Concepts
-
 
 <p align="center" id="table">
 :point_right: :one: :five: :two: :point_left:
@@ -163,7 +188,7 @@ Now here it goes!
 
 ********************************************************************************
 
-## [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
+### [Github Issue Symbols and Emoji](https://github.com/puddlejumper26/blogs/issues/46)
 
 
 <h2 id="algorithms"> Algorithms :pushpin:</h2> 
