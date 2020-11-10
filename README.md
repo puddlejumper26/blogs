@@ -505,6 +505,6 @@ Now here it goes!
 
 <h2 id="webpack">Webpack</h2>
 
-- [Online Course](https://github.com/puddlejumper26/blogs/issues/173)
+- [Online Course Note](https://github.com/puddlejumper26/blogs/issues/173)
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
