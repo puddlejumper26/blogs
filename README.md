@@ -413,7 +413,8 @@ Now here it goes!
 - [What is Gradle](https://github.com/puddlejumper26/blogs/issues/68)
 
 ------ Useful online courses
-*   [The Modern JavaScript Tutorial](https://javascript.info/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ES6 Promise Course](https://github.com/puddlejumper26/blogs/issues/174)
 
 
 ------ Basic Knowledge
