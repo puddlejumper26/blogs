@@ -143,7 +143,7 @@ Now here it goes!
         <tr>
             <th>:small_blue_diamond:Libraries:small_blue_diamond:</th>
             <td><a href="#rxjs">Rxjs</a></td>
-            <td></td>
+            <td><a href="#ngrx">NgRx</a></td>
             <td></td>
             <td></td>
         </tr>
@@ -432,6 +432,11 @@ Now here it goes!
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
+
+<h2 id="ngrx">NgRx  :pushpin:</h2>
+- [what is NgRx](https://github.com/puddlejumper26/ng-wyy/issues/9)
+
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id="nodejs">Node.js  :pushpin:</h2>
 
