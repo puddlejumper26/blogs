@@ -434,6 +434,7 @@ Now here it goes!
 
 
 <h2 id="ngrx">NgRx  :pushpin:</h2>
+
 - [what is NgRx](https://github.com/puddlejumper26/ng-wyy/issues/9)
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
