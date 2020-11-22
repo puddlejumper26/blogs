@@ -2,6 +2,8 @@
 
 ## Personal Tech Stack :gear: ( More Icons are coming slowly 🖖 )
 
+### Have
+
 <table>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/40550117/98718197-6878af80-238e-11eb-9067-c1b92bbd51ed.png" width="40" height="40" /> </td>
@@ -23,7 +25,7 @@
     </tr>
 </table>
 
-### In short Plan
+### In Short Plan
 <table>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/40550117/99902250-a514a700-2cbc-11eb-8427-1ad5fb6ab029.png" width="20" height="20" alt="NgRx"/> </td>
@@ -32,7 +34,7 @@
     </tr>
 </table>
 
-### In long term
+### In Long Term
 
 <table>
     <tr>
