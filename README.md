@@ -435,7 +435,12 @@ Now here it goes!
 
 <h2 id="ngrx">NgRx  :pushpin:</h2>
 
-- [what is NgRx](https://github.com/puddlejumper26/ng-wyy/issues/9)
+- [what is NgRx and How does it work](https://github.com/puddlejumper26/blogs/issues/175#issuecomment-731654437)
+- [Difference between NgRx and normal Service](https://github.com/puddlejumper26/blogs/issues/175#issuecomment-731654625)
+- [Redux Priciples](https://github.com/puddlejumper26/blogs/issues/175#issuecomment-731654674)
+- [Entire process](https://github.com/puddlejumper26/blogs/issues/175#issuecomment-731654716)
+
+- [Courses](https://github.com/puddlejumper26/blogs/issues/175#issue-748125752)
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
