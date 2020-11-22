@@ -142,9 +142,9 @@ Now here it goes!
         </tr>
         <tr>
             <th>:small_blue_diamond:Libraries:small_blue_diamond:</th>
-            <td><a href="#rxjs">Rxjs</a></td>
+            <td><a href="#rxjs">RxJs</a></td>
             <td><a href="#ngrx">NgRx</a></td>
-            <td></td>
+            <td><a href="#redux">Redux</a></td>
             <td></td>
         </tr>
        <tr>
@@ -455,6 +455,10 @@ Now here it goes!
 - [Open API Generator](https://openapi-generator.tech/)
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
+
+<h2 id="redux">Redux  :pushpin:</h2>
+
+- [Online GitBook](https://cn.redux.js.org/)
 
 <h2 id="regexp">REGEXP  :pushpin:</h2>
 
