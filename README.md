@@ -11,15 +11,37 @@
       <td><img src="https://user-images.githubusercontent.com/40550117/98720245-bf7f8400-2390-11eb-9b0d-c06fc9be8421.png" width="30" height="30" /></td>
       <td><img src="https://user-images.githubusercontent.com/40550117/98719591-3f591e80-2390-11eb-9f8f-f68c29b9aa95.png" width="30" height="30"/></td>
       <td><img src="https://user-images.githubusercontent.com/40550117/98719756-6e6f9000-2390-11eb-927a-34ea19dc6061.png" width="30" height="30"/></td>
+    </tr>
+    <tr>
+       <td><img src="https://user-images.githubusercontent.com/40550117/99902185-23247e00-2cbc-11eb-9161-0d020835933e.png" width="30" height="30"/></td>
+       <td><img src="https://user-images.githubusercontent.com/40550117/99902170-08520980-2cbc-11eb-9bd8-693bf7054c60.png" width="30" height="30"/></td>
+       <td><img src="https://user-images.githubusercontent.com/40550117/99902224-7b5b8000-2cbc-11eb-9dd3-c2113dbeb11d.png" width="30" height="30"/></td>
 <!--            <td><img src="" width="30" height="30"/></td>
-           <td><img src="" width="30" height="30"/></td>
-           <td><img src="" width="30" height="30"/></td>
-           <td><img src="" width="30" height="30"/></td>
            <td><img src="" width="30" height="30"/></td>
            <td><img src="" width="30" height="30"/></td>
            <td><img src="" width="30" height="30"/></td> -->
     </tr>
 </table>
+
+### In short Plan
+<table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/40550117/99902250-a514a700-2cbc-11eb-8427-1ad5fb6ab029.png" width="20" height="20" alt="NgRx"/> </td>
+      <td><img src="https://user-images.githubusercontent.com/40550117/99902272-d68d7280-2cbc-11eb-9811-c648d85c2992.png" width="20" height="20" alt="webpack"/> </td>
+      <td><img src="https://user-images.githubusercontent.com/40550117/99902338-60d5d680-2cbd-11eb-9641-7c8120765c5f.png" width="20" height="20" alt="nodejs"/> </td>
+    </tr>
+</table>
+
+### In long term
+
+<table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/40550117/99902347-7945f100-2cbd-11eb-90cc-00c425c2bc89.png" width="20" height="20" alt="aws"/> </td>
+<!--       <td><img src="" width="20" height="20" /> </td> -->
+<!--       <td><img src="" width="20" height="20" /> </td> -->
+    </tr>
+</table>
+   
 
 
 
