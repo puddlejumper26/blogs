@@ -463,6 +463,7 @@ Now here it goes!
 - [Difference between NgRx and normal Service](https://github.com/puddlejumper26/blogs/issues/175#issuecomment-731654625)
 - [Redux Priciples](https://github.com/puddlejumper26/blogs/issues/175#issuecomment-731654674)
 - [Entire process](https://github.com/puddlejumper26/blogs/issues/175#issuecomment-731654716)
+- [Reducer VS Multiple Reducers](https://github.com/puddlejumper26/blogs/issues/175#issuecomment-731654685)
 - [Courses](https://github.com/puddlejumper26/blogs/issues/175#issue-748125752)
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
