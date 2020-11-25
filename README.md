@@ -31,10 +31,10 @@
       <td><img src="https://user-images.githubusercontent.com/40550117/99902250-a514a700-2cbc-11eb-8427-1ad5fb6ab029.png" width="20" height="20" alt="NgRx"/> </td>
       <td><img src="https://user-images.githubusercontent.com/40550117/99902272-d68d7280-2cbc-11eb-9811-c648d85c2992.png" width="20" height="20" alt="webpack"/> </td>
       <td><img src="https://user-images.githubusercontent.com/40550117/99902338-60d5d680-2cbd-11eb-9641-7c8120765c5f.png" width="20" height="20" alt="nodejs"/> </td>
-      <td><img src="" width="20" height="20" alt="nodejs"/> </td>
-      <td><img src="https://user-images.githubusercontent.com/40550117/100239379-a1d62100-2f31-11eb-919c-9154d4848f60.png" width="20" height="20" alt="nodejs"/> </td>
-      <td><img src="" width="20" height="20" alt="nodejs"/> || </td>
-      <td><img src="https://user-images.githubusercontent.com/40550117/100239619-e792e980-2f31-11eb-9d09-0a0930eb52a5.png" width="20" height="20" alt="nodejs"/> </td>
+      <td> & & </td>
+      <td><img src="https://user-images.githubusercontent.com/40550117/100239379-a1d62100-2f31-11eb-919c-9154d4848f60.png" width="20" height="20" alt=""/> </td>
+      <td> | | </td>
+      <td><img src="https://user-images.githubusercontent.com/40550117/100239619-e792e980-2f31-11eb-9d09-0a0930eb52a5.png" width="20" height="20" alt=""/> </td>
 
 
    </tr>
