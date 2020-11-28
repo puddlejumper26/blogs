@@ -455,7 +455,9 @@ Now here it goes!
 - - [Basic method 【then】 and 【promise chain】](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-734837458) 
 - - [With and Without Promise](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735225475)
 - - [Promise priciples and original source code realizations steps](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735271911)
-- - - [Simplest Version]()
+- - - [Simplest Version](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735276536)
+- - - [Simplest + then Chain](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735277047)
+- - - [Simplest + then Chain + setTimeout](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735280659)
 - [Event Loop](https://github.com/puddlejumper26/blogs/issues/177)
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
