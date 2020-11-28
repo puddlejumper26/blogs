@@ -452,8 +452,8 @@ Now here it goes!
 - [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
 - Promise
 - - [What is Promise](https://github.com/puddlejumper26/blogs/issues/176#issue-752257736)
-- - [Usage of Promise](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-734837458) 
-
+- - [Basic method 【then】 and 【promise chain】](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-734837458) 
+- - [With and Without Promise](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735225475)
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
