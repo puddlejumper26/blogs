@@ -449,8 +449,11 @@ Now here it goes!
 
 ------ Basic Knowledge
 
-*   [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
-  
+- [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
+- Promise
+- - [What is Promise](https://github.com/puddlejumper26/blogs/issues/176#issue-752257736)
+- - [Usage of Promise](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-734837458) 
+
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
