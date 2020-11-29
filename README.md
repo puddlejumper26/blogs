@@ -66,7 +66,7 @@ I tried to document everything I have done, but found out it is really difficult
 Now here it goes!
 
 <p align="center" id="table">
-:point_right: :one: :five: :two: :point_left:
+:point_right: :one: :six: :zero: :point_left:
  </p>
 
    <table> 
@@ -460,6 +460,7 @@ Now here it goes!
 - - - [Simplest + then Chain + setTimeout](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735280659)
 - - - [Simplest + then Chain + setTimeout + state](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735280674)
 - - [Real Chain [then + new Promise]](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735284272)
+- - [【Excercises】](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735406718)
 - [Event Loop](https://github.com/puddlejumper26/blogs/issues/177)
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
