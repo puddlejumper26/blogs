@@ -459,6 +459,7 @@ Now here it goes!
 - - - [Simplest + then Chain](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735277047)
 - - - [Simplest + then Chain + setTimeout](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735280659)
 - - - [Simplest + then Chain + setTimeout + state](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735280674)
+- - [Real Chain [then + new Promise]](https://github.com/puddlejumper26/blogs/issues/176#issuecomment-735284272)
 - [Event Loop](https://github.com/puddlejumper26/blogs/issues/177)
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
