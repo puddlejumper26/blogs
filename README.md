@@ -447,6 +447,10 @@ Now here it goes!
 - [ES6 Promise Course](https://github.com/puddlejumper26/blogs/issues/174)
 
 
+------ Excercises
+- [JS Excercises 700](https://github.com/puddlejumper26/blogs/issues/179#issue-753237921)
+
+
 ------ Basic Knowledge
 
 - [Spread Operators and Rest Parameters](https://github.com/puddlejumper26/blogs/issues/38)
