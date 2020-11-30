@@ -281,6 +281,7 @@ Now here it goes!
 - [How to test an @Input varaible inside Angular Testing](https://github.com/puddlejumper26/blogs/issues/108)
 - [innerHtml,innerText,innerContent in Testing](https://github.com/puddlejumper26/blogs/issues/34)
 - [Mock a path in spec file](https://github.com/puddlejumper26/blogs/issues/45)
+- [ng-mocks](https://github.com/puddlejumper26/blogs/issues/181)
 - [Pipe testing in Angular](https://github.com/puddlejumper26/blogs/issues/58)
 - [Simple Angular routerLink testing](https://github.com/puddlejumper26/blogs/issues/155)
 - [Test for a simple routerLink in Angular](https://github.com/puddlejumper26/blogs/issues/51)
