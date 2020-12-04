@@ -252,6 +252,7 @@ Now here it goes!
 - [MatPaginatorModule Application Angular Material Pagination](https://github.com/puddlejumper26/blogs/issues/161)
 - [Observables in Angular - Creating and subscribing ](https://github.com/puddlejumper26/blogs/issues/62)
 - [Observable in Angular - When to use it](https://github.com/puddlejumper26/blogs/issues/162)
+- [Observables 2 using data and recursion](https://github.com/puddlejumper26/blogs/issues/182)
 - [Obtain value inside input of Angular](https://github.com/puddlejumper26/blogs/issues/170)
 - [Pipe for displaying '-' when no data received](https://github.com/puddlejumper26/blogs/issues/166)
 - [Providers in Angular](https://github.com/puddlejumper26/blogs/issues/14)
