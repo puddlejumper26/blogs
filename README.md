@@ -144,12 +144,33 @@ Now here it goes!
         </tr>
         <tr>
             <th>:small_blue_diamond:Framework:small_blue_diamond:</th>
-            <td><a href="#angular">Angular</a> | <a href="#angular-testing">Angular-Testing</a></td>
+            <td><a href="#angular">Angular</a></td>
             <td><a href="#nodejs">Node.js</a></td>
             <td></td>
             <td></td>
         </tr>
        <tr>
+           <th></th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+           <th>:small_blue_diamond: Testing :small_blue_diamond:</th>
+            <td><a href="#angular-testing">Jasmine-Angular</a></td>
+            <td><a href="#cypress">Cypress</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+           <th></th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
            <th></th>
             <td></td>
             <td></td>
@@ -343,6 +364,12 @@ Now here it goes!
 
 <h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
+
+<h2 id="cypress"> Cypress   :pushpin:</h2>
+
+- [Cypress Basic concepts](https://github.com/puddlejumper26/blogs/issues/183)
+
+<h4 align="right"><a href="#table">:arrow_up:</a></h4>
 
 <h2 id="data-structure"> Data Structure   :pushpin:</h2>
 
