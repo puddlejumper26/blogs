@@ -1,5 +1,8 @@
 <h1 align="center">Puddlejumper26's Blog </h1>
 
+# My Tech Blog is moving to [HRER](https://www.notion.so/Puddlejumper26-s-Blog-a781c620082b4e24961895f8854a4bf2) 
+
+
 ## Personal Tech Stack :gear: ( More Icons are coming slowly 🖖 )
 
 ### Have  
