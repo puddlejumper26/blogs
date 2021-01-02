@@ -1,12 +1,15 @@
 <h3 align="center">Puddlejumper26's Blog </h3>
 
 
+<br>
+<br>
+<br>
+<br>
+
 # My Tech Blog is moving to [HRER](https://www.notion.so/Puddlejumper26-s-Blog-a781c620082b4e24961895f8854a4bf2) 
 
 
 
-<br>
-<br><br>
 <br>
 <br>
 <br>
