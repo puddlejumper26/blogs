@@ -110,7 +110,7 @@ Now here it goes!
         <tr>
             <th>:round_pushpin: APP :round_pushpin:</th>
             <td><a href="https://github.com/puddlejumper26/json-server-test#-json-server-test">json-server(angular,json-server) </a></td>
-            <td><a href="https://github.com/puddlejumper26/ng-wyy#ng---wyy">:hotsprings:  NG-WYY(Angular) :hotsprings: </a></td>
+            <td><a href="https://github.com/puddlejumper26/musicplayer#music-player">:hotsprings:  Online Music Player(Angular) :hotsprings: </a></td>
             <td><a href="https://puddlejumper26.github.io/xiangblog/">Blog (hexo)</a></td>
             <td><a href="https://github.com/puddlejumper26/hexo-theme-ashes#hexo-theme-ashes">Hexo Theme(hexo)  </a></td>
         </tr>
